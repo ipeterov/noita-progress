@@ -17,6 +17,11 @@ export default function Icon({icon}) {
     window.open(icon.wiki_url, '_blank')
   }
 
+  // The game has the same quirk - it's counted in the header, but not actually displayed
+  if (icon.name === "turret_right") {
+    return null;
+  }
+
   return (
     <>
       <div className={styles.container} id={icon.id} onClick={handleClick}>
