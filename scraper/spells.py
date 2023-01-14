@@ -36,13 +36,24 @@ def get_spells():
             prop.key.id: prop.value
             for prop in spell_ast.value.fields
         }
+        name = translate(spell["name"].s)
+        slugified = (
+            name
+            .replace(' (One-off)', '')
+            .title()
+            .replace('Of', 'of')
+            .replace(' ', '_')
+            .replace('-', '_')
+        )
+        url = f"https://noita.fandom.com/wiki/{slugified}"
         icons.append(
             Icon(
                 id=spell["id"].s,
-                name=translate(spell["name"].s),
+                name=name,
                 description=translate(spell["description"].s),
                 image_path=spell["sprite"].s,
                 background_path=f"data/ui_gfx/inventory/{backgrounds[spell['type'].id]}",
+                wiki_url=url,
             )
         )
 
