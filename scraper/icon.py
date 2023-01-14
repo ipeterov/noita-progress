@@ -11,6 +11,7 @@ class Icon:
     name: str = None
     description: str = None
     background_path: str = None
+    wiki_url: str = None
 
     def yank_image(self, attr):
         """

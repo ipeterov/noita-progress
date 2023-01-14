@@ -25,12 +25,16 @@ def get_perks():
             prop.key.id: prop.value
             for prop in perk_ast.value.fields
         }
+
+        name = translate(perk["ui_name"].s)
+        url = f"https://noita.fandom.com/wiki/Perks#{name.replace(' ', '_').replace('_(One-off)', '')}"
         icons.append(
             Icon(
                 id=perk["id"].s,
-                name=translate(perk["ui_name"].s),
+                name=name,
                 description=translate(perk["ui_description"].s),
                 image_path=perk["perk_icon"].s,
+                wiki_url=url,
             )
         )
 
