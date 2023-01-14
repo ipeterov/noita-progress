@@ -1,0 +1,16 @@
+.base {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(6, 6, 6);
+    padding: 20px
+}
+
+.tables {
+    border: rgb(117, 110, 96) solid 2px;
+    padding: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10px;
+    background-color: rgb(13, 12, 11);
+}

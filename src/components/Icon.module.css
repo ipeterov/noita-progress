@@ -1,0 +1,10 @@
+.icon {
+    height: 32px;
+    width: 32px;
+
+    image-rendering: pixelated;
+
+    background-image: url('../img/grid_box.png');
+    background-size: 42px 42px;
+    background-position: center;
+}
