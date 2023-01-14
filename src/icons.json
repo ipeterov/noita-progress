@@ -1,0 +1,2692 @@
+{
+    "enemies": [
+        {
+            "name": "player",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/player.png"
+        },
+        {
+            "name": "sheep",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/sheep.png"
+        },
+        {
+            "name": "sheep_bat",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/sheep_bat.png"
+        },
+        {
+            "name": "sheep_fly",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/sheep_fly.png"
+        },
+        {
+            "name": "scorpion",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scorpion.png"
+        },
+        {
+            "name": "fish",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/fish.png"
+        },
+        {
+            "name": "fish_large",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/fish_large.png"
+        },
+        {
+            "name": "duck",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/duck.png"
+        },
+        {
+            "name": "wolf",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wolf.png"
+        },
+        {
+            "name": "deer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/deer.png"
+        },
+        {
+            "name": "elk",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/elk.png"
+        },
+        {
+            "name": "eel",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/eel.png"
+        },
+        {
+            "name": "zombie_weak",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/zombie_weak.png"
+        },
+        {
+            "name": "zombie",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/zombie.png"
+        },
+        {
+            "name": "miner_weak",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/miner_weak.png"
+        },
+        {
+            "name": "miner",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/miner.png"
+        },
+        {
+            "name": "miner_fire",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/miner_fire.png"
+        },
+        {
+            "name": "miner_santa",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/miner_santa.png"
+        },
+        {
+            "name": "miner_chef",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/miner_chef.png"
+        },
+        {
+            "name": "goblin_bomb",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/goblin_bomb.png"
+        },
+        {
+            "name": "shotgunner_weak",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/shotgunner_weak.png"
+        },
+        {
+            "name": "shotgunner",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/shotgunner.png"
+        },
+        {
+            "name": "scavenger_smg",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_smg.png"
+        },
+        {
+            "name": "scavenger_grenade",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_grenade.png"
+        },
+        {
+            "name": "scavenger_mine",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_mine.png"
+        },
+        {
+            "name": "scavenger_heal",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_heal.png"
+        },
+        {
+            "name": "scavenger_glue",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_glue.png"
+        },
+        {
+            "name": "scavenger_invis",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_invis.png"
+        },
+        {
+            "name": "scavenger_shield",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_shield.png"
+        },
+        {
+            "name": "scavenger_poison",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_poison.png"
+        },
+        {
+            "name": "scavenger_clusterbomb",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_clusterbomb.png"
+        },
+        {
+            "name": "scavenger_leader",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/scavenger_leader.png"
+        },
+        {
+            "name": "alchemist",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/alchemist.png"
+        },
+        {
+            "name": "sniper",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/sniper.png"
+        },
+        {
+            "name": "shaman",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/shaman.png"
+        },
+        {
+            "name": "coward",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/coward.png"
+        },
+        {
+            "name": "flamer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/flamer.png"
+        },
+        {
+            "name": "icer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/icer.png"
+        },
+        {
+            "name": "bigzombie",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/bigzombie.png"
+        },
+        {
+            "name": "bigzombietorso",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/bigzombietorso.png"
+        },
+        {
+            "name": "bigzombiehead",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/bigzombiehead.png"
+        },
+        {
+            "name": "slimeshooter_weak",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/slimeshooter_weak.png"
+        },
+        {
+            "name": "slimeshooter",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/slimeshooter.png"
+        },
+        {
+            "name": "acidshooter_weak",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/acidshooter_weak.png"
+        },
+        {
+            "name": "acidshooter",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/acidshooter.png"
+        },
+        {
+            "name": "lasershooter",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/lasershooter.png"
+        },
+        {
+            "name": "giantshooter_weak",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/giantshooter_weak.png"
+        },
+        {
+            "name": "giantshooter",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/giantshooter.png"
+        },
+        {
+            "name": "miniblob",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/miniblob.png"
+        },
+        {
+            "name": "blob",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/blob.png"
+        },
+        {
+            "name": "ant",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/ant.png"
+        },
+        {
+            "name": "rat",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/rat.png"
+        },
+        {
+            "name": "bat",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/bat.png"
+        },
+        {
+            "name": "bigbat",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/bigbat.png"
+        },
+        {
+            "name": "firebug",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/firebug.png"
+        },
+        {
+            "name": "bigfirebug",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/bigfirebug.png"
+        },
+        {
+            "name": "bloom",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/bloom.png"
+        },
+        {
+            "name": "shooterflower",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/shooterflower.png"
+        },
+        {
+            "name": "fly",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/fly.png"
+        },
+        {
+            "name": "frog",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/frog.png"
+        },
+        {
+            "name": "frog_big",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/frog_big.png"
+        },
+        {
+            "name": "fungus",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/fungus.png"
+        },
+        {
+            "name": "fungus_big",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/fungus_big.png"
+        },
+        {
+            "name": "fungus_giga",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/fungus_giga.png"
+        },
+        {
+            "name": "lurker",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/lurker.png"
+        },
+        {
+            "name": "maggot",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/maggot.png"
+        },
+        {
+            "name": "skullrat",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/skullrat.png"
+        },
+        {
+            "name": "skullfly",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/skullfly.png"
+        },
+        {
+            "name": "tentacler_small",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/tentacler_small.png"
+        },
+        {
+            "name": "tentacler",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/tentacler.png"
+        },
+        {
+            "name": "ghoul",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/ghoul.png"
+        },
+        {
+            "name": "giant",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/giant.png"
+        },
+        {
+            "name": "pebble_physics",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/pebble_physics.png"
+        },
+        {
+            "name": "longleg",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/longleg.png"
+        },
+        {
+            "name": "lukki_tiny",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/lukki_tiny.png"
+        },
+        {
+            "name": "lukki",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/lukki.png"
+        },
+        {
+            "name": "lukki_longleg",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/lukki_longleg.png"
+        },
+        {
+            "name": "lukki_creepy_long",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/lukki_creepy_long.png"
+        },
+        {
+            "name": "lukki_dark",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/lukki_dark.png"
+        },
+        {
+            "name": "worm_tiny",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/worm_tiny.png"
+        },
+        {
+            "name": "worm",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/worm.png"
+        },
+        {
+            "name": "worm_big",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/worm_big.png"
+        },
+        {
+            "name": "worm_skull",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/worm_skull.png"
+        },
+        {
+            "name": "worm_end",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/worm_end.png"
+        },
+        {
+            "name": "drone_physics",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/drone_physics.png"
+        },
+        {
+            "name": "drone_lasership",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/drone_lasership.png"
+        },
+        {
+            "name": "drone_shield",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/drone_shield.png"
+        },
+        {
+            "name": "basebot_sentry",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_sentry.png"
+        },
+        {
+            "name": "basebot_hidden",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_hidden.png"
+        },
+        {
+            "name": "basebot_neutralizer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_neutralizer.png"
+        },
+        {
+            "name": "basebot_soldier",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_soldier.png"
+        },
+        {
+            "name": "healerdrone_physics",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/healerdrone_physics.png"
+        },
+        {
+            "name": "roboguard",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/roboguard.png"
+        },
+        {
+            "name": "roboguard_big",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/roboguard_big.png"
+        },
+        {
+            "name": "assassin",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/assassin.png"
+        },
+        {
+            "name": "spearbot",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/spearbot.png"
+        },
+        {
+            "name": "tank",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/tank.png"
+        },
+        {
+            "name": "tank_rocket",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/tank_rocket.png"
+        },
+        {
+            "name": "tank_super",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/tank_super.png"
+        },
+        {
+            "name": "turret_left",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/turret_left.png"
+        },
+        {
+            "name": "turret_right",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/turret_right.png"
+        },
+        {
+            "name": "monk",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/monk.png"
+        },
+        {
+            "name": "missilecrab",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/missilecrab.png"
+        },
+        {
+            "name": "necrobot",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/necrobot.png"
+        },
+        {
+            "name": "necrobot_super",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/necrobot_super.png"
+        },
+        {
+            "name": "fireskull",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/fireskull.png"
+        },
+        {
+            "name": "iceskull",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/iceskull.png"
+        },
+        {
+            "name": "thunderskull",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/thunderskull.png"
+        },
+        {
+            "name": "firemage_weak",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/firemage_weak.png"
+        },
+        {
+            "name": "firemage",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/firemage.png"
+        },
+        {
+            "name": "icemage",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/icemage.png"
+        },
+        {
+            "name": "thundermage",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/thundermage.png"
+        },
+        {
+            "name": "thundermage_big",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/thundermage_big.png"
+        },
+        {
+            "name": "barfer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/barfer.png"
+        },
+        {
+            "name": "wizard_dark",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_dark.png"
+        },
+        {
+            "name": "wizard_tele",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_tele.png"
+        },
+        {
+            "name": "wizard_poly",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_poly.png"
+        },
+        {
+            "name": "wizard_swapper",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_swapper.png"
+        },
+        {
+            "name": "wizard_neutral",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_neutral.png"
+        },
+        {
+            "name": "wizard_returner",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_returner.png"
+        },
+        {
+            "name": "wizard_hearty",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_hearty.png"
+        },
+        {
+            "name": "wizard_homing",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_homing.png"
+        },
+        {
+            "name": "wizard_weaken",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_weaken.png"
+        },
+        {
+            "name": "wizard_twitchy",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wizard_twitchy.png"
+        },
+        {
+            "name": "enlightened_alchemist",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/enlightened_alchemist.png"
+        },
+        {
+            "name": "failed_alchemist",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/failed_alchemist.png"
+        },
+        {
+            "name": "failed_alchemist_b",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/failed_alchemist_b.png"
+        },
+        {
+            "name": "wraith",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wraith.png"
+        },
+        {
+            "name": "wraith_storm",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wraith_storm.png"
+        },
+        {
+            "name": "wraith_glowing",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wraith_glowing.png"
+        },
+        {
+            "name": "statue",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/statue.png"
+        },
+        {
+            "name": "statue_physics",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/statue_physics.png"
+        },
+        {
+            "name": "snowcrystal",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/snowcrystal.png"
+        },
+        {
+            "name": "hpcrystal",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/hpcrystal.png"
+        },
+        {
+            "name": "ghost",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/ghost.png"
+        },
+        {
+            "name": "wand_ghost",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/wand_ghost.png"
+        },
+        {
+            "name": "ethereal_being",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/ethereal_being.png"
+        },
+        {
+            "name": "playerghost",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/playerghost.png"
+        },
+        {
+            "name": "phantom_a",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/phantom_a.png"
+        },
+        {
+            "name": "phantom_b",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/phantom_b.png"
+        },
+        {
+            "name": "necromancer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/necromancer.png"
+        },
+        {
+            "name": "gazer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/gazer.png"
+        },
+        {
+            "name": "skygazer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/skygazer.png"
+        },
+        {
+            "name": "spitmonster",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/spitmonster.png"
+        },
+        {
+            "name": "crystal_physics",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/crystal_physics.png"
+        },
+        {
+            "name": "bloodcrystal_physics",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/bloodcrystal_physics.png"
+        },
+        {
+            "name": "skycrystal_physics",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/skycrystal_physics.png"
+        },
+        {
+            "name": "chest_mimic",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/chest_mimic.png"
+        },
+        {
+            "name": "chest_leggy",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/chest_leggy.png"
+        },
+        {
+            "name": "dark_alchemist",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/dark_alchemist.png"
+        },
+        {
+            "name": "necromancer_shop",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/necromancer_shop.png"
+        },
+        {
+            "name": "necromancer_super",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/necromancer_super.png"
+        },
+        {
+            "name": "boss_dragon",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_dragon.png"
+        },
+        {
+            "name": "boss_limbs",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_limbs.png"
+        },
+        {
+            "name": "boss_alchemist",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_alchemist.png"
+        },
+        {
+            "name": "parallel_alchemist",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/parallel_alchemist.png"
+        },
+        {
+            "name": "boss_ghost",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_ghost.png"
+        },
+        {
+            "name": "boss_ghost_polyp",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_ghost_polyp.png"
+        },
+        {
+            "name": "boss_pit",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_pit.png"
+        },
+        {
+            "name": "boss_robot",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_robot.png"
+        },
+        {
+            "name": "fish_giga",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/fish_giga.png"
+        },
+        {
+            "name": "maggot_tiny",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/maggot_tiny.png"
+        },
+        {
+            "name": "parallel_tentacles",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/parallel_tentacles.png"
+        },
+        {
+            "name": "minipit",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/minipit.png"
+        },
+        {
+            "name": "gate_monster_a",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/gate_monster_a.png"
+        },
+        {
+            "name": "gate_monster_b",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/gate_monster_b.png"
+        },
+        {
+            "name": "gate_monster_c",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/gate_monster_c.png"
+        },
+        {
+            "name": "gate_monster_d",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/gate_monster_d.png"
+        },
+        {
+            "name": "boss_wizard",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_wizard.png"
+        },
+        {
+            "name": "boss_centipede",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_centipede.png"
+        },
+        {
+            "name": "ultimate_killer",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/ultimate_killer.png"
+        },
+        {
+            "name": "friend",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/friend.png"
+        }
+    ],
+    "perks": [
+        {
+            "name": "CRITICAL_HIT",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/critical_hit.png"
+        },
+        {
+            "name": "BREATH_UNDERWATER",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/breath_underwater.png"
+        },
+        {
+            "name": "EXTRA_MONEY",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/extra_money.png"
+        },
+        {
+            "name": "EXTRA_MONEY_TRICK_KILL",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/extra_money_trick_kill.png"
+        },
+        {
+            "name": "GOLD_IS_FOREVER",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/gold_is_forever.png"
+        },
+        {
+            "name": "TRICK_BLOOD_MONEY",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/trick_blood_money.png"
+        },
+        {
+            "name": "EXPLODING_GOLD",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/exploding_gold.png"
+        },
+        {
+            "name": "HOVER_BOOST",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/hover_boost.png"
+        },
+        {
+            "name": "FASTER_LEVITATION",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/faster_levitation.png"
+        },
+        {
+            "name": "MOVEMENT_FASTER",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/movement_faster.png"
+        },
+        {
+            "name": "STRONG_KICK",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/strong_kick.png"
+        },
+        {
+            "name": "TELEKINESIS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/telekinesis.png"
+        },
+        {
+            "name": "REPELLING_CAPE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/repelling_cape.png"
+        },
+        {
+            "name": "EXPLODING_CORPSES",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/exploding_corpses.png"
+        },
+        {
+            "name": "SAVING_GRACE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/saving_grace.png"
+        },
+        {
+            "name": "INVISIBILITY",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/invisibility.png"
+        },
+        {
+            "name": "GLOBAL_GORE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/global_gore.png"
+        },
+        {
+            "name": "REMOVE_FOG_OF_WAR",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/remove_fog_of_war.png"
+        },
+        {
+            "name": "LEVITATION_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/levitation_trail.png"
+        },
+        {
+            "name": "VAMPIRISM",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/vampirism.png"
+        },
+        {
+            "name": "EXTRA_HP",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/extra_hp.png"
+        },
+        {
+            "name": "HEARTS_MORE_EXTRA_HP",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/hearts_more_extra_hp.png"
+        },
+        {
+            "name": "GLASS_CANNON",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/glass_cannon.png"
+        },
+        {
+            "name": "LOW_HP_DAMAGE_BOOST",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/low_hp_damage_boost.png"
+        },
+        {
+            "name": "RESPAWN",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/respawn.png"
+        },
+        {
+            "name": "WORM_ATTRACTOR",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/worm_attractor.png"
+        },
+        {
+            "name": "RADAR_ENEMY",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/radar_enemy.png"
+        },
+        {
+            "name": "FOOD_CLOCK",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/mystery_eggplant.png"
+        },
+        {
+            "name": "IRON_STOMACH",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/iron_stomach.png"
+        },
+        {
+            "name": "WAND_RADAR",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/radar_wand.png"
+        },
+        {
+            "name": "ITEM_RADAR",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/radar_item.png"
+        },
+        {
+            "name": "MOON_RADAR",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/radar_moon.png"
+        },
+        {
+            "name": "MAP",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/map.png"
+        },
+        {
+            "name": "PROTECTION_FIRE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/protection_fire.png"
+        },
+        {
+            "name": "PROTECTION_RADIOACTIVITY",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/protection_radioactivity.png"
+        },
+        {
+            "name": "PROTECTION_EXPLOSION",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/protection_explosion.png"
+        },
+        {
+            "name": "PROTECTION_MELEE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/protection_melee.png"
+        },
+        {
+            "name": "PROTECTION_ELECTRICITY",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/protection_electricity.png"
+        },
+        {
+            "name": "TELEPORTITIS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/teleportitis.png"
+        },
+        {
+            "name": "TELEPORTITIS_DODGE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/teleportitis_dodge.png"
+        },
+        {
+            "name": "STAINLESS_ARMOUR",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/stainless_armour.png"
+        },
+        {
+            "name": "EDIT_WANDS_EVERYWHERE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/edit_wands_everywhere.png"
+        },
+        {
+            "name": "NO_WAND_EDITING",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/no_wand_editing.png"
+        },
+        {
+            "name": "WAND_EXPERIMENTER",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/wand_experimenter.png"
+        },
+        {
+            "name": "ADVENTURER",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/adventurer.png"
+        },
+        {
+            "name": "ABILITY_ACTIONS_MATERIALIZED",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/ability_actions_materialized.png"
+        },
+        {
+            "name": "PROJECTILE_HOMING",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/projectile_homing.png"
+        },
+        {
+            "name": "PROJECTILE_HOMING_SHOOTER",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/projectile_homing_shooter.png"
+        },
+        {
+            "name": "UNLIMITED_SPELLS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/unlimited_spells.png"
+        },
+        {
+            "name": "FREEZE_FIELD",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/freeze_field.png"
+        },
+        {
+            "name": "FIRE_GAS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/fire_gas.png"
+        },
+        {
+            "name": "DISSOLVE_POWDERS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/dissolve_powders.png"
+        },
+        {
+            "name": "BLEED_SLIME",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/slime_blood.png"
+        },
+        {
+            "name": "BLEED_OIL",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/oil_blood.png"
+        },
+        {
+            "name": "BLEED_GAS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/gas_blood.png"
+        },
+        {
+            "name": "SHIELD",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/shield.png"
+        },
+        {
+            "name": "REVENGE_EXPLOSION",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/revenge_explosion.png"
+        },
+        {
+            "name": "REVENGE_TENTACLE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/revenge_tentacle.png"
+        },
+        {
+            "name": "REVENGE_RATS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/revenge_rats.png"
+        },
+        {
+            "name": "REVENGE_BULLET",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/revenge_bullet.png"
+        },
+        {
+            "name": "ATTACK_FOOT",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/attack_foot.png"
+        },
+        {
+            "name": "LEGGY_FEET",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/leggy_feet.png"
+        },
+        {
+            "name": "PLAGUE_RATS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/plague_rats.png"
+        },
+        {
+            "name": "VOMIT_RATS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/vomit_rats.png"
+        },
+        {
+            "name": "CORDYCEPS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/cordyceps.png"
+        },
+        {
+            "name": "MOLD",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/mold.png"
+        },
+        {
+            "name": "WORM_SMALLER_HOLES",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/worm_smaller_holes.png"
+        },
+        {
+            "name": "PROJECTILE_REPULSION",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/projectile_repulsion.png"
+        },
+        {
+            "name": "RISKY_CRITICAL",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/risky_critical.png"
+        },
+        {
+            "name": "FUNGAL_DISEASE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/fungal_disease.png"
+        },
+        {
+            "name": "PROJECTILE_SLOW_FIELD",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/projectile_slow_field.png"
+        },
+        {
+            "name": "PROJECTILE_REPULSION_SECTOR",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/projectile_repulsion_sector.png"
+        },
+        {
+            "name": "PROJECTILE_EATER_SECTOR",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/projectile_eater_sector.png"
+        },
+        {
+            "name": "ORBIT",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/orbit.png"
+        },
+        {
+            "name": "ANGRY_GHOST",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/angry_ghost.png"
+        },
+        {
+            "name": "HUNGRY_GHOST",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/hungry_ghost.png"
+        },
+        {
+            "name": "DEATH_GHOST",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/death_ghost.png"
+        },
+        {
+            "name": "HOMUNCULUS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/homunculus.png"
+        },
+        {
+            "name": "LUKKI_MINION",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/lukki_minion.png"
+        },
+        {
+            "name": "ELECTRICITY",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/electricity.png"
+        },
+        {
+            "name": "ATTRACT_ITEMS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/attract_items.png"
+        },
+        {
+            "name": "EXTRA_KNOCKBACK",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/extra_knockback.png"
+        },
+        {
+            "name": "LOWER_SPREAD",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/lower_spread.png"
+        },
+        {
+            "name": "LOW_RECOIL",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/low_recoil.png"
+        },
+        {
+            "name": "BOUNCE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/bounce.png"
+        },
+        {
+            "name": "FAST_PROJECTILES",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/fast_projectiles.png"
+        },
+        {
+            "name": "ALWAYS_CAST",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/always_cast.png"
+        },
+        {
+            "name": "EXTRA_MANA",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/extra_mana.png"
+        },
+        {
+            "name": "NO_MORE_SHUFFLE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/no_more_shuffle.png"
+        },
+        {
+            "name": "NO_MORE_KNOCKBACK",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/no_player_knockback.png"
+        },
+        {
+            "name": "DUPLICATE_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/duplicate_projectile.png"
+        },
+        {
+            "name": "FASTER_WANDS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/faster_wands.png"
+        },
+        {
+            "name": "EXTRA_SLOTS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/extra_slots.png"
+        },
+        {
+            "name": "CONTACT_DAMAGE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/contact_damage.png"
+        },
+        {
+            "name": "EXTRA_PERK",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/extra_perk.png"
+        },
+        {
+            "name": "PERKS_LOTTERY",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/perks_lottery.png"
+        },
+        {
+            "name": "GAMBLE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/gamble.png"
+        },
+        {
+            "name": "EXTRA_SHOP_ITEM",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/extra_shop_item.png"
+        },
+        {
+            "name": "GENOME_MORE_HATRED",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/genome_more_hatred.png"
+        },
+        {
+            "name": "GENOME_MORE_LOVE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/genome_more_love.png"
+        },
+        {
+            "name": "PEACE_WITH_GODS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/peace_with_gods.png"
+        },
+        {
+            "name": "MANA_FROM_KILLS",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/mana_from_kills.png"
+        },
+        {
+            "name": "ANGRY_LEVITATION",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/angry_levitation.png"
+        },
+        {
+            "name": "LASER_AIM",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/laser_aim.png"
+        },
+        {
+            "name": "PERSONAL_LASER",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/personal_laser.png"
+        },
+        {
+            "name": "MEGA_BEAM_STONE",
+            "image_path": "dynamic_images/ui_gfx/perk_icons/mega_beam_stone.png"
+        }
+    ],
+    "spells": [
+        {
+            "name": "BOMB",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bomb.png"
+        },
+        {
+            "name": "LIGHT_BULLET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/light_bullet.png"
+        },
+        {
+            "name": "LIGHT_BULLET_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/light_bullet_trigger.png"
+        },
+        {
+            "name": "LIGHT_BULLET_TRIGGER_2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/light_bullet_trigger_2.png"
+        },
+        {
+            "name": "LIGHT_BULLET_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/light_bullet_timer.png"
+        },
+        {
+            "name": "BULLET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bullet.png"
+        },
+        {
+            "name": "BULLET_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bullet_trigger.png"
+        },
+        {
+            "name": "BULLET_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bullet_timer.png"
+        },
+        {
+            "name": "HEAVY_BULLET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/heavy_bullet.png"
+        },
+        {
+            "name": "HEAVY_BULLET_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/heavy_bullet_trigger.png"
+        },
+        {
+            "name": "HEAVY_BULLET_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/heavy_bullet_timer.png"
+        },
+        {
+            "name": "AIR_BULLET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/air_bullet.png"
+        },
+        {
+            "name": "SLOW_BULLET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/slow_bullet.png"
+        },
+        {
+            "name": "SLOW_BULLET_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/slow_bullet_trigger.png"
+        },
+        {
+            "name": "SLOW_BULLET_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/slow_bullet_timer.png"
+        },
+        {
+            "name": "BLACK_HOLE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/black_hole.png"
+        },
+        {
+            "name": "BLACK_HOLE_DEATH_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/black_hole_timer.png"
+        },
+        {
+            "name": "BLACK_HOLE_BIG",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/black_hole_big.png"
+        },
+        {
+            "name": "BLACK_HOLE_GIGA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/black_hole_giga.png"
+        },
+        {
+            "name": "TENTACLE_PORTAL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tentacle_portal.png"
+        },
+        {
+            "name": "SPITTER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spitter.png"
+        },
+        {
+            "name": "SPITTER_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spitter_timer.png"
+        },
+        {
+            "name": "SPITTER_TIER_2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spitter_green.png"
+        },
+        {
+            "name": "SPITTER_TIER_2_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spitter_green_timer.png"
+        },
+        {
+            "name": "SPITTER_TIER_3",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spitter_purple.png"
+        },
+        {
+            "name": "SPITTER_TIER_3_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spitter_purple_timer.png"
+        },
+        {
+            "name": "BUBBLESHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bubbleshot.png"
+        },
+        {
+            "name": "BUBBLESHOT_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bubbleshot_trigger.png"
+        },
+        {
+            "name": "DISC_BULLET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/disc_bullet.png"
+        },
+        {
+            "name": "DISC_BULLET_BIG",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/disc_bullet_big.png"
+        },
+        {
+            "name": "DISC_BULLET_BIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/omega_disc_bullet.png"
+        },
+        {
+            "name": "BOUNCY_ORB",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bouncy_orb.png"
+        },
+        {
+            "name": "BOUNCY_ORB_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bouncy_orb_timer.png"
+        },
+        {
+            "name": "RUBBER_BALL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/rubber_ball.png"
+        },
+        {
+            "name": "ARROW",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/arrow.png"
+        },
+        {
+            "name": "POLLEN",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/pollen.png"
+        },
+        {
+            "name": "LANCE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/lance.png"
+        },
+        {
+            "name": "ROCKET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/rocket.png"
+        },
+        {
+            "name": "ROCKET_TIER_2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/rocket_tier_2.png"
+        },
+        {
+            "name": "ROCKET_TIER_3",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/rocket_tier_3.png"
+        },
+        {
+            "name": "GRENADE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/grenade.png"
+        },
+        {
+            "name": "GRENADE_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/grenade_trigger.png"
+        },
+        {
+            "name": "GRENADE_TIER_2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/grenade_tier_2.png"
+        },
+        {
+            "name": "GRENADE_TIER_3",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/grenade_tier_3.png"
+        },
+        {
+            "name": "GRENADE_ANTI",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/grenade_anti.png"
+        },
+        {
+            "name": "GRENADE_LARGE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/grenade_large.png"
+        },
+        {
+            "name": "MINE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/mine.png"
+        },
+        {
+            "name": "MINE_DEATH_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/mine_death_trigger.png"
+        },
+        {
+            "name": "PIPE_BOMB",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/pipe_bomb.png"
+        },
+        {
+            "name": "PIPE_BOMB_DEATH_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/pipe_bomb_death_trigger.png"
+        },
+        {
+            "name": "EXPLODING_DEER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/exploding_deer.png"
+        },
+        {
+            "name": "EXPLODING_DUCKS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/duck_2.png"
+        },
+        {
+            "name": "WORM_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/worm.png"
+        },
+        {
+            "name": "BOMB_DETONATOR",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/pipe_bomb_detonator.png"
+        },
+        {
+            "name": "LASER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/laser.png"
+        },
+        {
+            "name": "MEGALASER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/megalaser.png"
+        },
+        {
+            "name": "LIGHTNING",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/lightning.png"
+        },
+        {
+            "name": "BALL_LIGHTNING",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ball_lightning.png"
+        },
+        {
+            "name": "LASER_EMITTER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/laser_emitter.png"
+        },
+        {
+            "name": "LASER_EMITTER_FOUR",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/laser_emitter_four.png"
+        },
+        {
+            "name": "LASER_EMITTER_CUTTER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/laser_emitter_cutter.png"
+        },
+        {
+            "name": "DIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/digger.png"
+        },
+        {
+            "name": "POWERDIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/powerdigger.png"
+        },
+        {
+            "name": "CHAINSAW",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/chainsaw.png"
+        },
+        {
+            "name": "LUMINOUS_DRILL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/luminous_drill.png"
+        },
+        {
+            "name": "LASER_LUMINOUS_DRILL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/luminous_drill_timer.png"
+        },
+        {
+            "name": "TENTACLE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tentacle.png"
+        },
+        {
+            "name": "TENTACLE_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tentacle_timer.png"
+        },
+        {
+            "name": "HEAL_BULLET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/heal_bullet.png"
+        },
+        {
+            "name": "SPIRAL_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spiral_shot.png"
+        },
+        {
+            "name": "MAGIC_SHIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/magic_shield.png"
+        },
+        {
+            "name": "BIG_MAGIC_SHIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/big_magic_shield.png"
+        },
+        {
+            "name": "CHAIN_BOLT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/chain_bolt.png"
+        },
+        {
+            "name": "FIREBALL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fireball.png"
+        },
+        {
+            "name": "METEOR",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/meteor.png"
+        },
+        {
+            "name": "FLAMETHROWER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/flamethrower.png"
+        },
+        {
+            "name": "ICEBALL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/iceball.png"
+        },
+        {
+            "name": "SLIMEBALL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/slimeball.png"
+        },
+        {
+            "name": "DARKFLAME",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/darkflame.png"
+        },
+        {
+            "name": "MISSILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/missile.png"
+        },
+        {
+            "name": "FUNKY_SPELL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/machinegun_bullet.png"
+        },
+        {
+            "name": "PEBBLE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/pebble.png"
+        },
+        {
+            "name": "DYNAMITE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/dynamite.png"
+        },
+        {
+            "name": "GLITTER_BOMB",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/glitter_bomb.png"
+        },
+        {
+            "name": "BUCKSHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/buckshot.png"
+        },
+        {
+            "name": "FREEZING_GAZE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/freezing_gaze.png"
+        },
+        {
+            "name": "GLOWING_BOLT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/glowing_bolt.png"
+        },
+        {
+            "name": "SPORE_POD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spore_pod.png"
+        },
+        {
+            "name": "GLUE_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/glue_shot.png"
+        },
+        {
+            "name": "BOMB_HOLY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bomb_holy.png"
+        },
+        {
+            "name": "BOMB_HOLY_GIGA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bomb_holy_giga.png"
+        },
+        {
+            "name": "PROPANE_TANK",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/propane_tank.png"
+        },
+        {
+            "name": "BOMB_CART",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bomb_cart.png"
+        },
+        {
+            "name": "CURSED_ORB",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/cursed_orb.png"
+        },
+        {
+            "name": "EXPANDING_ORB",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/expanding_orb.png"
+        },
+        {
+            "name": "CRUMBLING_EARTH",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/crumbling_earth.png"
+        },
+        {
+            "name": "SUMMON_ROCK",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/summon_rock.png"
+        },
+        {
+            "name": "SUMMON_EGG",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/summon_egg.png"
+        },
+        {
+            "name": "SUMMON_HOLLOW_EGG",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/summon_hollow_egg.png"
+        },
+        {
+            "name": "TNTBOX",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tntbox.png"
+        },
+        {
+            "name": "TNTBOX_BIG",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tntbox_big.png"
+        },
+        {
+            "name": "SWARM_FLY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/swarm_fly.png"
+        },
+        {
+            "name": "SWARM_FIREBUG",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/swarm_firebug.png"
+        },
+        {
+            "name": "SWARM_WASP",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/swarm_wasp.png"
+        },
+        {
+            "name": "FRIEND_FLY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/friend_fly.png"
+        },
+        {
+            "name": "ACIDSHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/acidshot.png"
+        },
+        {
+            "name": "THUNDERBALL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/thunderball.png"
+        },
+        {
+            "name": "FIREBOMB",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/firebomb.png"
+        },
+        {
+            "name": "SOILBALL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/soil.png"
+        },
+        {
+            "name": "DEATH_CROSS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/death_cross.png"
+        },
+        {
+            "name": "DEATH_CROSS_BIG",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/death_cross_big.png"
+        },
+        {
+            "name": "INFESTATION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/infestation.png"
+        },
+        {
+            "name": "WALL_HORIZONTAL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/wall_horizontal.png"
+        },
+        {
+            "name": "WALL_VERTICAL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/wall_vertical.png"
+        },
+        {
+            "name": "WALL_SQUARE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/wall_square.png"
+        },
+        {
+            "name": "TEMPORARY_WALL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/temporary_wall.png"
+        },
+        {
+            "name": "TEMPORARY_PLATFORM",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/temporary_platform.png"
+        },
+        {
+            "name": "PURPLE_EXPLOSION_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/purple_explosion_field.png"
+        },
+        {
+            "name": "DELAYED_SPELL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/delayed_spell.png"
+        },
+        {
+            "name": "LONG_DISTANCE_CAST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/long_distance_cast.png"
+        },
+        {
+            "name": "TELEPORT_CAST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/teleport_cast.png"
+        },
+        {
+            "name": "SUPER_TELEPORT_CAST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/super_teleport_cast.png"
+        },
+        {
+            "name": "MIST_RADIOACTIVE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/mist_radioactive.png"
+        },
+        {
+            "name": "MIST_ALCOHOL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/mist_alcohol.png"
+        },
+        {
+            "name": "MIST_SLIME",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/mist_slime.png"
+        },
+        {
+            "name": "MIST_BLOOD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/mist_blood.png"
+        },
+        {
+            "name": "CIRCLE_FIRE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/circle_fire.png"
+        },
+        {
+            "name": "CIRCLE_ACID",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/circle_acid.png"
+        },
+        {
+            "name": "CIRCLE_OIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/circle_oil.png"
+        },
+        {
+            "name": "CIRCLE_WATER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/circle_water.png"
+        },
+        {
+            "name": "MATERIAL_WATER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/material_water.png"
+        },
+        {
+            "name": "MATERIAL_OIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/material_oil.png"
+        },
+        {
+            "name": "MATERIAL_BLOOD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/material_blood.png"
+        },
+        {
+            "name": "MATERIAL_ACID",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/material_acid.png"
+        },
+        {
+            "name": "MATERIAL_CEMENT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/material_cement.png"
+        },
+        {
+            "name": "TELEPORT_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/teleport_projectile.png"
+        },
+        {
+            "name": "TELEPORT_PROJECTILE_SHORT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/teleport_projectile_short.png"
+        },
+        {
+            "name": "TELEPORT_PROJECTILE_STATIC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/teleport_projectile_static.png"
+        },
+        {
+            "name": "SWAPPER_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/swapper_projectile.png"
+        },
+        {
+            "name": "TELEPORT_PROJECTILE_CLOSER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/teleport_projectile_closer.png"
+        },
+        {
+            "name": "NUKE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/nuke.png"
+        },
+        {
+            "name": "NUKE_GIGA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/nuke_giga.png"
+        },
+        {
+            "name": "FIREWORK",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fireworks.png"
+        },
+        {
+            "name": "SUMMON_WANDGHOST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/summon_wandghost.png"
+        },
+        {
+            "name": "TOUCH_GOLD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/touch_gold.png"
+        },
+        {
+            "name": "TOUCH_WATER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/touch_water.png"
+        },
+        {
+            "name": "TOUCH_OIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/touch_oil.png"
+        },
+        {
+            "name": "TOUCH_ALCOHOL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/touch_alcohol.png"
+        },
+        {
+            "name": "TOUCH_BLOOD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/touch_blood.png"
+        },
+        {
+            "name": "TOUCH_SMOKE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/touch_smoke.png"
+        },
+        {
+            "name": "DESTRUCTION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/destruction.png"
+        },
+        {
+            "name": "BURST_2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/burst_2.png"
+        },
+        {
+            "name": "BURST_3",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/burst_3.png"
+        },
+        {
+            "name": "BURST_4",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/burst_4.png"
+        },
+        {
+            "name": "BURST_8",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/burst_8.png"
+        },
+        {
+            "name": "BURST_X",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/burst_x.png"
+        },
+        {
+            "name": "SCATTER_2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/scatter_2.png"
+        },
+        {
+            "name": "SCATTER_3",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/scatter_3.png"
+        },
+        {
+            "name": "SCATTER_4",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/scatter_4.png"
+        },
+        {
+            "name": "I_SHAPE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/i_shape.png"
+        },
+        {
+            "name": "Y_SHAPE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/y_shape.png"
+        },
+        {
+            "name": "T_SHAPE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/t_shape.png"
+        },
+        {
+            "name": "W_SHAPE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/w_shape.png"
+        },
+        {
+            "name": "CIRCLE_SHAPE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/circle_shape.png"
+        },
+        {
+            "name": "PENTAGRAM_SHAPE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/pentagram_shape.png"
+        },
+        {
+            "name": "SPREAD_REDUCE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spread_reduce.png"
+        },
+        {
+            "name": "HEAVY_SPREAD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/heavy_spread.png"
+        },
+        {
+            "name": "RECHARGE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/recharge.png"
+        },
+        {
+            "name": "LIFETIME",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/lifetime.png"
+        },
+        {
+            "name": "LIFETIME_DOWN",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/lifetime_down.png"
+        },
+        {
+            "name": "NOLLA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/nolla.png"
+        },
+        {
+            "name": "SLOW_BUT_STEADY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/slow_but_steady.png"
+        },
+        {
+            "name": "EXPLOSION_REMOVE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explosion_remove.png"
+        },
+        {
+            "name": "EXPLOSION_TINY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explosion_tiny.png"
+        },
+        {
+            "name": "LASER_EMITTER_WIDER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/laser_emitter_wider.png"
+        },
+        {
+            "name": "MANA_REDUCE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/mana.png"
+        },
+        {
+            "name": "BLOOD_MAGIC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/blood_magic.png"
+        },
+        {
+            "name": "MONEY_MAGIC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/golden_punch.png"
+        },
+        {
+            "name": "BLOOD_TO_POWER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/blood_punch.png"
+        },
+        {
+            "name": "DUPLICATE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/duplicate.png"
+        },
+        {
+            "name": "QUANTUM_SPLIT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/quantum_split.png"
+        },
+        {
+            "name": "GRAVITY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/gravity.png"
+        },
+        {
+            "name": "GRAVITY_ANTI",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/gravity_anti.png"
+        },
+        {
+            "name": "SINEWAVE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sinewave.png"
+        },
+        {
+            "name": "CHAOTIC_ARC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/chaotic_arc.png"
+        },
+        {
+            "name": "PINGPONG_PATH",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/pingpong_path.png"
+        },
+        {
+            "name": "AVOIDING_ARC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/avoiding_arc.png"
+        },
+        {
+            "name": "FLOATING_ARC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/floating_arc.png"
+        },
+        {
+            "name": "FLY_DOWNWARDS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fly_downwards.png"
+        },
+        {
+            "name": "FLY_UPWARDS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fly_upwards.png"
+        },
+        {
+            "name": "HORIZONTAL_ARC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/horizontal_arc.png"
+        },
+        {
+            "name": "LINE_ARC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/line_arc.png"
+        },
+        {
+            "name": "ORBIT_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/orbit_shot.png"
+        },
+        {
+            "name": "SPIRALING_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spiraling_shot.png"
+        },
+        {
+            "name": "PHASING_ARC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/phasing_arc.png"
+        },
+        {
+            "name": "BOUNCE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce.png"
+        },
+        {
+            "name": "REMOVE_BOUNCE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/remove_bounce.png"
+        },
+        {
+            "name": "HOMING",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/homing.png"
+        },
+        {
+            "name": "HOMING_SHORT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/homing_short.png"
+        },
+        {
+            "name": "HOMING_ROTATE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/homing_rotate.png"
+        },
+        {
+            "name": "HOMING_SHOOTER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/homing_shooter.png"
+        },
+        {
+            "name": "AUTOAIM",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/autoaim.png"
+        },
+        {
+            "name": "HOMING_ACCELERATING",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/homing_accelerating.png"
+        },
+        {
+            "name": "HOMING_CURSOR",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/homing_cursor.png"
+        },
+        {
+            "name": "HOMING_AREA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/homing_area.png"
+        },
+        {
+            "name": "PIERCING_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/piercing_shot.png"
+        },
+        {
+            "name": "CLIPPING_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/clipping_shot.png"
+        },
+        {
+            "name": "DAMAGE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/damage.png"
+        },
+        {
+            "name": "DAMAGE_RANDOM",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/damage_random.png"
+        },
+        {
+            "name": "BLOODLUST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bloodlust.png"
+        },
+        {
+            "name": "DAMAGE_FOREVER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/damage_forever.png"
+        },
+        {
+            "name": "CRITICAL_HIT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/critical_hit.png"
+        },
+        {
+            "name": "AREA_DAMAGE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/area_damage.png"
+        },
+        {
+            "name": "SPELLS_TO_POWER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/spells_to_power.png"
+        },
+        {
+            "name": "ESSENCE_TO_POWER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/essence_to_power.png"
+        },
+        {
+            "name": "HEAVY_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/heavy_shot.png"
+        },
+        {
+            "name": "LIGHT_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/light_shot.png"
+        },
+        {
+            "name": "KNOCKBACK",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/knockback.png"
+        },
+        {
+            "name": "RECOIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/recoil.png"
+        },
+        {
+            "name": "RECOIL_DAMPER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/recoil_damper.png"
+        },
+        {
+            "name": "SPEED",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/speed.png"
+        },
+        {
+            "name": "ACCELERATING_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/accelerating_shot.png"
+        },
+        {
+            "name": "DECELERATING_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/decelerating_shot.png"
+        },
+        {
+            "name": "EXPLOSIVE_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explosive_projectile.png"
+        },
+        {
+            "name": "WATER_TO_POISON",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/water_to_poison.png"
+        },
+        {
+            "name": "BLOOD_TO_ACID",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/blood_to_acid.png"
+        },
+        {
+            "name": "LAVA_TO_BLOOD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/lava_to_blood.png"
+        },
+        {
+            "name": "LIQUID_TO_EXPLOSION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/liquid_to_explosion.png"
+        },
+        {
+            "name": "TOXIC_TO_ACID",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/toxic_to_acid.png"
+        },
+        {
+            "name": "STATIC_TO_SAND",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/static_to_sand.png"
+        },
+        {
+            "name": "TRANSMUTATION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/transmutation.png"
+        },
+        {
+            "name": "RANDOM_EXPLOSION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/random_explosion.png"
+        },
+        {
+            "name": "NECROMANCY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/necromancy.png"
+        },
+        {
+            "name": "LIGHT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/light.png"
+        },
+        {
+            "name": "EXPLOSION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explosion.png"
+        },
+        {
+            "name": "EXPLOSION_LIGHT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explosion_light.png"
+        },
+        {
+            "name": "FIRE_BLAST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fire_blast.png"
+        },
+        {
+            "name": "POISON_BLAST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/poison_blast.png"
+        },
+        {
+            "name": "ALCOHOL_BLAST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/alcohol_blast.png"
+        },
+        {
+            "name": "THUNDER_BLAST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/thunder_blast.png"
+        },
+        {
+            "name": "BERSERK_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/berserk_field.png"
+        },
+        {
+            "name": "POLYMORPH_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/polymorph_field.png"
+        },
+        {
+            "name": "CHAOS_POLYMORPH_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/chaos_polymorph_field.png"
+        },
+        {
+            "name": "ELECTROCUTION_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/electrocution_field.png"
+        },
+        {
+            "name": "FREEZE_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/freeze_field.png"
+        },
+        {
+            "name": "REGENERATION_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/regeneration_field.png"
+        },
+        {
+            "name": "TELEPORTATION_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/teleportation_field.png"
+        },
+        {
+            "name": "LEVITATION_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/levitation_field.png"
+        },
+        {
+            "name": "SHIELD_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/shield_field.png"
+        },
+        {
+            "name": "PROJECTILE_TRANSMUTATION_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/projectile_transmutation_field.png"
+        },
+        {
+            "name": "PROJECTILE_THUNDER_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/projectile_thunder_field.png"
+        },
+        {
+            "name": "PROJECTILE_GRAVITY_FIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/projectile_gravity_field.png"
+        },
+        {
+            "name": "VACUUM_POWDER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/vacuum_powder.png"
+        },
+        {
+            "name": "VACUUM_LIQUID",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/vacuum_liquid.png"
+        },
+        {
+            "name": "VACUUM_ENTITIES",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/vacuum_entities.png"
+        },
+        {
+            "name": "SEA_LAVA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sea_lava.png"
+        },
+        {
+            "name": "SEA_ALCOHOL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sea_alcohol.png"
+        },
+        {
+            "name": "SEA_OIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sea_oil.png"
+        },
+        {
+            "name": "SEA_WATER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sea_water.png"
+        },
+        {
+            "name": "SEA_ACID",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sea_acid.png"
+        },
+        {
+            "name": "SEA_ACID_GAS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sea_acid_gas.png"
+        },
+        {
+            "name": "CLOUD_WATER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/cloud_water.png"
+        },
+        {
+            "name": "CLOUD_OIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/cloud_oil.png"
+        },
+        {
+            "name": "CLOUD_BLOOD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/cloud_blood.png"
+        },
+        {
+            "name": "CLOUD_ACID",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/cloud_acid.png"
+        },
+        {
+            "name": "CLOUD_THUNDER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/cloud_thunder.png"
+        },
+        {
+            "name": "ELECTRIC_CHARGE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/electric_charge.png"
+        },
+        {
+            "name": "MATTER_EATER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/matter_eater.png"
+        },
+        {
+            "name": "FREEZE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/freeze.png"
+        },
+        {
+            "name": "HITFX_BURNING_CRITICAL_HIT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/burning_critical.png"
+        },
+        {
+            "name": "HITFX_CRITICAL_WATER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/critical_water.png"
+        },
+        {
+            "name": "HITFX_CRITICAL_OIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/critical_oil.png"
+        },
+        {
+            "name": "HITFX_CRITICAL_BLOOD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/critical_blood.png"
+        },
+        {
+            "name": "HITFX_TOXIC_CHARM",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/charm_on_toxic.png"
+        },
+        {
+            "name": "HITFX_EXPLOSION_SLIME",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explode_on_slime.png"
+        },
+        {
+            "name": "HITFX_EXPLOSION_SLIME_GIGA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explode_on_slime_giga.png"
+        },
+        {
+            "name": "HITFX_EXPLOSION_ALCOHOL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explode_on_alcohol.png"
+        },
+        {
+            "name": "HITFX_EXPLOSION_ALCOHOL_GIGA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/explode_on_alcohol_giga.png"
+        },
+        {
+            "name": "HITFX_PETRIFY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/petrify.png"
+        },
+        {
+            "name": "ROCKET_DOWNWARDS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/rocket_downwards.png"
+        },
+        {
+            "name": "ROCKET_OCTAGON",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/rocket_octagon.png"
+        },
+        {
+            "name": "FIZZLE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fizzle.png"
+        },
+        {
+            "name": "BOUNCE_EXPLOSION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce_explosion.png"
+        },
+        {
+            "name": "BOUNCE_SPARK",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce_spark.png"
+        },
+        {
+            "name": "BOUNCE_LASER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce_laser.png"
+        },
+        {
+            "name": "BOUNCE_LASER_EMITTER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce_laser_emitter.png"
+        },
+        {
+            "name": "BOUNCE_LARPA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce_larpa.png"
+        },
+        {
+            "name": "FIREBALL_RAY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fireball_ray.png"
+        },
+        {
+            "name": "LIGHTNING_RAY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/lightning_ray.png"
+        },
+        {
+            "name": "TENTACLE_RAY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tentacle_ray.png"
+        },
+        {
+            "name": "LASER_EMITTER_RAY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/laser_emitter_ray.png"
+        },
+        {
+            "name": "FIREBALL_RAY_LINE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fireball_ray_line.png"
+        },
+        {
+            "name": "FIREBALL_RAY_ENEMY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fireball_ray_enemy.png"
+        },
+        {
+            "name": "LIGHTNING_RAY_ENEMY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/lightning_ray_enemy.png"
+        },
+        {
+            "name": "TENTACLE_RAY_ENEMY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tentacle_ray_enemy.png"
+        },
+        {
+            "name": "GRAVITY_FIELD_ENEMY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/gravity_field_enemy.png"
+        },
+        {
+            "name": "CURSE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/curse.png"
+        },
+        {
+            "name": "CURSE_WITHER_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/curse_wither_projectile.png"
+        },
+        {
+            "name": "CURSE_WITHER_EXPLOSION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/curse_wither_explosion.png"
+        },
+        {
+            "name": "CURSE_WITHER_MELEE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/curse_wither_melee.png"
+        },
+        {
+            "name": "CURSE_WITHER_ELECTRICITY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/curse_wither_electricity.png"
+        },
+        {
+            "name": "ORBIT_DISCS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/orbit_discs.png"
+        },
+        {
+            "name": "ORBIT_FIREBALLS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/orbit_fireballs.png"
+        },
+        {
+            "name": "ORBIT_NUKES",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/orbit_nukes.png"
+        },
+        {
+            "name": "ORBIT_LASERS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/orbit_lasers.png"
+        },
+        {
+            "name": "ORBIT_LARPA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/orbit_larpa.png"
+        },
+        {
+            "name": "CHAIN_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/chain_shot.png"
+        },
+        {
+            "name": "ARC_ELECTRIC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/arc_electric.png"
+        },
+        {
+            "name": "ARC_FIRE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/arc_fire.png"
+        },
+        {
+            "name": "ARC_GUNPOWDER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/arc_gunpowder.png"
+        },
+        {
+            "name": "ARC_POISON",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/arc_poison.png"
+        },
+        {
+            "name": "CRUMBLING_EARTH_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/crumbling_earth_projectile.png"
+        },
+        {
+            "name": "X_RAY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/x_ray.png"
+        },
+        {
+            "name": "UNSTABLE_GUNPOWDER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/unstable_gunpowder.png"
+        },
+        {
+            "name": "ACID_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/acid_trail.png"
+        },
+        {
+            "name": "POISON_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/poison_trail.png"
+        },
+        {
+            "name": "OIL_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/oil_trail.png"
+        },
+        {
+            "name": "WATER_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/water_trail.png"
+        },
+        {
+            "name": "GUNPOWDER_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/gunpowder_trail.png"
+        },
+        {
+            "name": "FIRE_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fire_trail.png"
+        },
+        {
+            "name": "BURN_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/burn_trail.png"
+        },
+        {
+            "name": "TORCH",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/torch.png"
+        },
+        {
+            "name": "TORCH_ELECTRIC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/torch_electric.png"
+        },
+        {
+            "name": "ENERGY_SHIELD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/energy_shield.png"
+        },
+        {
+            "name": "ENERGY_SHIELD_SECTOR",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/energy_shield_sector.png"
+        },
+        {
+            "name": "ENERGY_SHIELD_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/energy_shield_shot.png"
+        },
+        {
+            "name": "TINY_GHOST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tiny_ghost.png"
+        },
+        {
+            "name": "OCARINA_A",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ocarina_a.png"
+        },
+        {
+            "name": "OCARINA_B",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ocarina_b.png"
+        },
+        {
+            "name": "OCARINA_C",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ocarina_c.png"
+        },
+        {
+            "name": "OCARINA_D",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ocarina_d.png"
+        },
+        {
+            "name": "OCARINA_E",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ocarina_e.png"
+        },
+        {
+            "name": "OCARINA_F",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ocarina_f.png"
+        },
+        {
+            "name": "OCARINA_GSHARP",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ocarina_gsharp.png"
+        },
+        {
+            "name": "OCARINA_A2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/ocarina_a2.png"
+        },
+        {
+            "name": "KANTELE_A",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/kantele_a.png"
+        },
+        {
+            "name": "KANTELE_D",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/kantele_d.png"
+        },
+        {
+            "name": "KANTELE_DIS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/kantele_dis.png"
+        },
+        {
+            "name": "KANTELE_E",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/kantele_e.png"
+        },
+        {
+            "name": "KANTELE_G",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/kantele_g.png"
+        },
+        {
+            "name": "RANDOM_SPELL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/random_spell.png"
+        },
+        {
+            "name": "RANDOM_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/random_projectile.png"
+        },
+        {
+            "name": "RANDOM_MODIFIER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/random_modifier.png"
+        },
+        {
+            "name": "RANDOM_STATIC_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/random_static_projectile.png"
+        },
+        {
+            "name": "DRAW_RANDOM",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/draw_random.png"
+        },
+        {
+            "name": "DRAW_RANDOM_X3",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/draw_random_x3.png"
+        },
+        {
+            "name": "DRAW_3_RANDOM",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/draw_3_random.png"
+        },
+        {
+            "name": "ALL_NUKES",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/all_nukes.png"
+        },
+        {
+            "name": "ALL_DISCS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/all_discs.png"
+        },
+        {
+            "name": "ALL_ROCKETS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/all_rockets.png"
+        },
+        {
+            "name": "ALL_DEATHCROSSES",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/all_deathcrosses.png"
+        },
+        {
+            "name": "ALL_BLACKHOLES",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/all_blackholes.png"
+        },
+        {
+            "name": "ALL_ACID",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/all_acid.png"
+        },
+        {
+            "name": "ALL_SPELLS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/all_spells.png"
+        },
+        {
+            "name": "SUMMON_PORTAL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/summon_portal.png"
+        },
+        {
+            "name": "ADD_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/trigger.png"
+        },
+        {
+            "name": "ADD_TIMER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/timer.png"
+        },
+        {
+            "name": "ADD_DEATH_TRIGGER",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/death_trigger.png"
+        },
+        {
+            "name": "LARPA_CHAOS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/larpa_chaos.png"
+        },
+        {
+            "name": "LARPA_DOWNWARDS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/larpa_downwards.png"
+        },
+        {
+            "name": "LARPA_UPWARDS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/larpa_upwards.png"
+        },
+        {
+            "name": "LARPA_CHAOS_2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/larpa_chaos_2.png"
+        },
+        {
+            "name": "LARPA_DEATH",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/larpa_death.png"
+        },
+        {
+            "name": "ALPHA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/alpha.png"
+        },
+        {
+            "name": "GAMMA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/gamma.png"
+        },
+        {
+            "name": "TAU",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/tau.png"
+        },
+        {
+            "name": "OMEGA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/omega.png"
+        },
+        {
+            "name": "MU",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/mu.png"
+        },
+        {
+            "name": "PHI",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/phi.png"
+        },
+        {
+            "name": "SIGMA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sigma.png"
+        },
+        {
+            "name": "ZETA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/zeta.png"
+        },
+        {
+            "name": "DIVIDE_2",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/divide_2.png"
+        },
+        {
+            "name": "DIVIDE_3",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/divide_3.png"
+        },
+        {
+            "name": "DIVIDE_4",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/divide_4.png"
+        },
+        {
+            "name": "DIVIDE_10",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/divide_10.png"
+        },
+        {
+            "name": "METEOR_RAIN",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/meteor_rain.png"
+        },
+        {
+            "name": "WORM_RAIN",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/worm_rain.png"
+        },
+        {
+            "name": "RESET",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/reset.png"
+        },
+        {
+            "name": "IF_ENEMY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/if_enemy.png"
+        },
+        {
+            "name": "IF_PROJECTILE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/if_projectile.png"
+        },
+        {
+            "name": "IF_HP",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/if_hp.png"
+        },
+        {
+            "name": "IF_HALF",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/if_half.png"
+        },
+        {
+            "name": "IF_END",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/if_end.png"
+        },
+        {
+            "name": "IF_ELSE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/if_else.png"
+        },
+        {
+            "name": "COLOUR_RED",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/colour_red.png"
+        },
+        {
+            "name": "COLOUR_ORANGE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/colour_orange.png"
+        },
+        {
+            "name": "COLOUR_GREEN",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/colour_green.png"
+        },
+        {
+            "name": "COLOUR_YELLOW",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/colour_yellow.png"
+        },
+        {
+            "name": "COLOUR_PURPLE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/colour_purple.png"
+        },
+        {
+            "name": "COLOUR_BLUE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/colour_blue.png"
+        },
+        {
+            "name": "COLOUR_RAINBOW",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/colour_rainbow.png"
+        },
+        {
+            "name": "COLOUR_INVIS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/colour_invis.png"
+        },
+        {
+            "name": "RAINBOW_TRAIL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/rainbow_trail.png"
+        }
+    ]
+}
