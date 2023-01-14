@@ -18,7 +18,7 @@ export default function Icon({icon}) {
   }
 
   // The game has the same quirk - it's counted in the header, but not actually displayed
-  if (icon.name === "turret_right") {
+  if (icon.id === "turret_right") {
     return null;
   }
 
