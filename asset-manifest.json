@@ -1,25 +1,34 @@
 {
   "files": {
-    "main.css": "/noita-progress/static/css/main.fef40663.css",
-    "main.js": "/noita-progress/static/js/main.b2fa84e8.js",
+    "main.css": "/noita-progress/static/css/main.be7e8a87.css",
+    "main.js": "/noita-progress/static/js/main.255342a7.js",
     "static/js/787.9bec275d.chunk.js": "/noita-progress/static/js/787.9bec275d.chunk.js",
+    "static/media/NoitaPixel.ttf": "/noita-progress/static/media/NoitaPixel.9206e6c49f2e035c85fa.ttf",
     "static/media/buckshot.png": "/noita-progress/static/media/buckshot.fd80d1355d31b7a3e799.png",
-    "static/media/teleportitis_dodge.png": "/noita-progress/static/media/teleportitis_dodge.5a4f8a5af446c2fbb075.png",
+    "static/media/teleportitis_dodge.png": "/noita-progress/static/media/teleportitis_dodge.bcf10e383c06f68a1619.png",
     "static/media/nuke.png": "/noita-progress/static/media/nuke.184c9ca1a9bc1b16503a.png",
     "static/media/grid_box.png": "/noita-progress/static/media/grid_box.ef272249f71e4cb706fa.png",
     "static/media/swapper_projectile.png": "/noita-progress/static/media/swapper_projectile.f751cca9b0b960cdc99b.png",
+    "static/media/item_bg_draw_many.png": "/noita-progress/static/media/item_bg_draw_many.07938ac950d2f698962e.png",
     "static/media/bomb_cart.png": "/noita-progress/static/media/bomb_cart.768343b2a56537f5fd79.png",
     "static/media/tiny_ghost.png": "/noita-progress/static/media/tiny_ghost.f4e365824ff158486a22.png",
     "static/media/lukki.png": "/noita-progress/static/media/lukki.687fb119a8ea3a21a156.png",
     "static/media/wizard_swapper.png": "/noita-progress/static/media/wizard_swapper.75039f3fcfc5b5dad7cb.png",
     "static/media/material_blood.png": "/noita-progress/static/media/material_blood.19c0d4b61a5035bd19c1.png",
+    "static/media/item_bg_passive.png": "/noita-progress/static/media/item_bg_passive.d140027c70d2530fccaa.png",
+    "static/media/item_bg_projectile.png": "/noita-progress/static/media/item_bg_projectile.110cc3566e4849f1cf1d.png",
+    "static/media/item_bg_modifier.png": "/noita-progress/static/media/item_bg_modifier.a23793b280619cc466c9.png",
+    "static/media/item_bg_static_projectile.png": "/noita-progress/static/media/item_bg_static_projectile.c1ab9b665cbed47f9391.png",
+    "static/media/item_bg_material.png": "/noita-progress/static/media/item_bg_material.ef74d7939ebfefe460d2.png",
+    "static/media/item_bg_other.png": "/noita-progress/static/media/item_bg_other.07f90c083d704343e880.png",
+    "static/media/item_bg_utility.png": "/noita-progress/static/media/item_bg_utility.62255ead18083f1d4100.png",
     "index.html": "/noita-progress/index.html",
-    "main.fef40663.css.map": "/noita-progress/static/css/main.fef40663.css.map",
-    "main.b2fa84e8.js.map": "/noita-progress/static/js/main.b2fa84e8.js.map",
+    "main.be7e8a87.css.map": "/noita-progress/static/css/main.be7e8a87.css.map",
+    "main.255342a7.js.map": "/noita-progress/static/js/main.255342a7.js.map",
     "787.9bec275d.chunk.js.map": "/noita-progress/static/js/787.9bec275d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fef40663.css",
-    "static/js/main.b2fa84e8.js"
+    "static/css/main.be7e8a87.css",
+    "static/js/main.255342a7.js"
   ]
 }
