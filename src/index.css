@@ -4,13 +4,21 @@
     --font-color-muted: rgb(91, 91, 91);
 }
 
+@media screen and (max-width: 1690px) {
+    :root {
+        --zoom: 2;
+    }
+}
+
 body {
+    margin: 0;
     background-color: rgb(6, 6, 6);
     font-family: 'NoitaPixel', serif;
     -webkit-font-smoothing: none;
     image-rendering: pixelated;
     cursor: crosshair;
     color: var(--font-color-muted);
+    overflow: hidden;
 }
 
 img {
