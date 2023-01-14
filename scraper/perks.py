@@ -1,0 +1,37 @@
+from translation import translate
+from icon import Icon
+
+from luaparser import ast
+
+
+def get_perks():
+    with open("data/scripts/perks/perk_list.lua") as f:
+        tree = ast.parse(f.read())
+
+    actions = None
+    for statement in tree.body.body:
+        if statement.display_name != 'Assign':
+            continue
+
+        if statement.targets[0].id != "perk_list":
+            continue
+
+        actions = statement
+        break
+
+    icons = []
+    for perk_ast in actions.values[0].fields:
+        perk = {
+            prop.key.id: prop.value
+            for prop in perk_ast.value.fields
+        }
+        icons.append(
+            Icon(
+                id=perk["id"].s,
+                name=translate(perk["ui_name"].s),
+                description=translate(perk["ui_description"].s),
+                image_path=perk["perk_icon"].s,
+            )
+        )
+
+    return icons
