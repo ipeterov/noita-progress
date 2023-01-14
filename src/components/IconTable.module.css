@@ -2,6 +2,10 @@
     font-size: calc(7px * var(--zoom));
 }
 
+.percent {
+    color: var(--font-color);
+}
+
 .total {
     color: var(--font-color-muted);
 }
