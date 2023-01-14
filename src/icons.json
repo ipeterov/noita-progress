@@ -1520,7 +1520,7 @@
             "name": "All-Seeing Eye",
             "description": "You can see everywhere.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#All-Seeing_Eye"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#All_Seeing_Eye"
         },
         {
             "id": "LEVITATION_TRAIL",
@@ -2200,7 +2200,7 @@
             "name": "Rage-fueled Levitation",
             "description": "Killing an enemy makes you replenish some of your levitation power.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Rage-fueled_Levitation"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Rage_fueled_Levitation"
         },
         {
             "id": "LASER_AIM",
