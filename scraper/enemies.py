@@ -13,4 +13,5 @@ def get_enemies():
             image_path=f"data/ui_gfx/animal_icons/{name}.png",
         )
         for name in names
+        if name != "turret_right"
     ]

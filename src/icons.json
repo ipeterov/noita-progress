@@ -801,14 +801,6 @@
             "wiki_url": null
         },
         {
-            "id": "turret_right",
-            "image_path": "dynamic_images/ui_gfx/animal_icons/turret_right.png",
-            "name": "Torjuntalaite",
-            "description": null,
-            "background_path": null,
-            "wiki_url": null
-        },
-        {
             "id": "monk",
             "image_path": "dynamic_images/ui_gfx/animal_icons/monk.png",
             "name": "Munkki",
