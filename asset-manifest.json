@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/noita-progress/static/css/main.073c9b0a.css",
-    "main.js": "/noita-progress/static/js/main.5f8e397d.js",
+    "main.css": "/noita-progress/static/css/main.fef40663.css",
+    "main.js": "/noita-progress/static/js/main.b2fa84e8.js",
     "static/js/787.9bec275d.chunk.js": "/noita-progress/static/js/787.9bec275d.chunk.js",
-    "static/media/logo.svg": "/noita-progress/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/buckshot.png": "/noita-progress/static/media/buckshot.fd80d1355d31b7a3e799.png",
+    "static/media/teleportitis_dodge.png": "/noita-progress/static/media/teleportitis_dodge.5a4f8a5af446c2fbb075.png",
+    "static/media/nuke.png": "/noita-progress/static/media/nuke.184c9ca1a9bc1b16503a.png",
+    "static/media/grid_box.png": "/noita-progress/static/media/grid_box.ef272249f71e4cb706fa.png",
+    "static/media/swapper_projectile.png": "/noita-progress/static/media/swapper_projectile.f751cca9b0b960cdc99b.png",
+    "static/media/bomb_cart.png": "/noita-progress/static/media/bomb_cart.768343b2a56537f5fd79.png",
+    "static/media/tiny_ghost.png": "/noita-progress/static/media/tiny_ghost.f4e365824ff158486a22.png",
+    "static/media/lukki.png": "/noita-progress/static/media/lukki.687fb119a8ea3a21a156.png",
+    "static/media/wizard_swapper.png": "/noita-progress/static/media/wizard_swapper.75039f3fcfc5b5dad7cb.png",
+    "static/media/material_blood.png": "/noita-progress/static/media/material_blood.19c0d4b61a5035bd19c1.png",
     "index.html": "/noita-progress/index.html",
-    "main.073c9b0a.css.map": "/noita-progress/static/css/main.073c9b0a.css.map",
-    "main.5f8e397d.js.map": "/noita-progress/static/js/main.5f8e397d.js.map",
+    "main.fef40663.css.map": "/noita-progress/static/css/main.fef40663.css.map",
+    "main.b2fa84e8.js.map": "/noita-progress/static/js/main.b2fa84e8.js.map",
     "787.9bec275d.chunk.js.map": "/noita-progress/static/js/787.9bec275d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5f8e397d.js"
+    "static/css/main.fef40663.css",
+    "static/js/main.b2fa84e8.js"
   ]
 }
