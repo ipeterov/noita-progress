@@ -4,7 +4,7 @@ import {Tooltip} from 'react-tooltip'
 
 import styles from './Icon.module.css';
 
-export default function Icon({icon}) {
+export default function Icon({prefix, icon}) {
   function loadImage(path) {
     return require(`../${path}`);
   }
@@ -22,9 +22,11 @@ export default function Icon({icon}) {
     return null;
   }
 
+  const id = `${prefix}-${icon.id}`
+
   return (
     <>
-      <div className={styles.container} id={icon.id} onClick={handleClick}>
+      <div className={styles.container} id={id} onClick={handleClick}>
         {
           icon.background_path ?
             <img src={loadImage(icon.background_path)} alt={icon.name} className={styles.background}/>
@@ -35,12 +37,12 @@ export default function Icon({icon}) {
       <Tooltip
         place="bottom"
         offset={29}
-        anchorId={icon.id}
+        anchorId={id}
         className={styles.tooltip}
         classNameArrow={styles.tooltipArrow}
       >
         <div>
-          <div className={styles.name}>{icon.name}</div>
+          <div className={styles.name}>{icon.name || icon.id}</div>
           {icon.description ? (
             <div className={styles.description}>{icon.description}</div>
           ) : null}
@@ -56,5 +58,6 @@ export default function Icon({icon}) {
 }
 
 Icon.propTypes = {
+  prefix: PropTypes.string.isRequired,
   icon: PropTypes.object.isRequired,
 };
