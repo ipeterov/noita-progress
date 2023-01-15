@@ -1,24 +1,22 @@
-.tables {
+.container {
     --scrollbar-color: rgba(117, 117, 117, 50%);
-    border: rgb(145, 129, 103) solid 3px;
-    padding: 8px 17px 10px 19px;
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 12px;
-    background-color: rgb(15, 14, 14);
-    max-width: fit-content;
-    overflow-y: scroll;
+
+    position: relative;
     height: calc(100vh - 70px);
     margin: 20px auto;
+
+    border: rgb(145, 129, 103) solid 3px;
+    overflow-y: scroll;
+    max-width: fit-content;
+    background-color: rgb(15, 14, 14);
 }
 
-.tables::-webkit-scrollbar {
+.container::-webkit-scrollbar {
     width: 30px;
     height: 30px;
 }
 
-.tables::-webkit-scrollbar-track {
+.container::-webkit-scrollbar-track {
     background-color: transparent;
     border: solid 3px transparent;
     box-shadow: inset -3px 0 0 0 var(--scrollbar-color),
@@ -27,7 +25,7 @@
     inset 0 -3px 0 0 var(--scrollbar-color);
 }
 
-.tables::-webkit-scrollbar-thumb {
+.container::-webkit-scrollbar-thumb {
     background-color: transparent;
     box-shadow: inset -3px 0 0 0 var(--scrollbar-color),
     inset 3px 0 0 0 var(--scrollbar-color),
@@ -40,6 +38,21 @@
     background-size: 12px;
 }
 
-.tables::-webkit-scrollbar-corner {
+.container::-webkit-scrollbar-corner {
     background-color: transparent;
+}
+
+.tables {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 12px;
+    margin: 8px 17px 10px 19px;
+}
+
+.hamis {
+    position: sticky;
+    left: 0;
+    height: calc(16px * var(--zoom));
+    width: calc(16px * var(--zoom));
 }
