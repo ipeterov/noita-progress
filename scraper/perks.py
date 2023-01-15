@@ -27,7 +27,17 @@ def get_perks():
         }
 
         name = translate(perk["ui_name"].s)
-        slugified = name.replace(' (One-off)', '').replace(' ', '_').replace('-', '_')
+        slugified = (
+            name
+            .replace(' (One-off)', '')
+            .title()
+            .replace('To ', 'to ')
+            .replace('In ', 'in ')
+            .replace('On ', 'on ')
+            .replace('With ', 'with ')
+            .replace(' ', '_')
+            .replace('-', '_')
+        )
         url = f"https://noita.fandom.com/wiki/Perks#{slugified}"
         icons.append(
             Icon(

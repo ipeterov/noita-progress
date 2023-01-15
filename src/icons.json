@@ -1568,7 +1568,7 @@
             "name": "Living on the Edge",
             "description": "Your spells deal 3x damage when you're under 25 HP or 25% of maximum health.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Living_on_the_Edge"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Living_on_The_Edge"
         },
         {
             "id": "RESPAWN",
@@ -1712,7 +1712,7 @@
             "name": "Tinker With Wands Everywhere",
             "description": "A divine blessing allows you to tinker with wands everywhere.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Tinker_With_Wands_Everywhere"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Tinker_with_Wands_Everywhere"
         },
         {
             "id": "NO_WAND_EDITING",
@@ -1784,7 +1784,7 @@
             "name": "Gas fire",
             "description": "Gases near you ignite automatically.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Gas_fire"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Gas_Fire"
         },
         {
             "id": "DISSOLVE_POWDERS",
@@ -1856,7 +1856,7 @@
             "name": "Revenge bullets",
             "description": "You return fire when hit by projectiles, and you gain 20% resistance against explosions and projectiles.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Revenge_bullets"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Revenge_Bullets"
         },
         {
             "id": "ATTACK_FOOT",
@@ -1912,7 +1912,7 @@
             "name": "Feared by Worms",
             "description": "Worms run away from you, and worm and lukki enemies no longer destroy terrain while burrowing.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Feared_by_Worms"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Feared_By_Worms"
         },
         {
             "id": "PROJECTILE_REPULSION",
@@ -1976,7 +1976,7 @@
             "name": "Angry ghost",
             "description": "An angry spirit comes to your aid, copying nearby spells and projectiles.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Angry_ghost"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Angry_Ghost"
         },
         {
             "id": "HUNGRY_GHOST",
@@ -2104,7 +2104,7 @@
             "name": "Projectile duplication",
             "description": "Your projectile spells have a chance to duplicate, but you're more vulnerable to projectile damage",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Projectile_duplication"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Projectile_Duplication"
         },
         {
             "id": "FASTER_WANDS",
@@ -2160,7 +2160,7 @@
             "name": "Extra Item In Holy Mountain",
             "description": "There will be an additional item in every Holy Mountain you haven't discovered yet.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Extra_Item_In_Holy_Mountain"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Extra_Item_in_Holy_Mountain"
         },
         {
             "id": "GENOME_MORE_HATRED",
@@ -2192,7 +2192,7 @@
             "name": "Kills to mana",
             "description": "Every time an enemy near you dies, you release mana-recharging liquid.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Kills_to_mana"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Kills_to_Mana"
         },
         {
             "id": "ANGRY_LEVITATION",
@@ -2200,7 +2200,7 @@
             "name": "Rage-fueled Levitation",
             "description": "Killing an enemy makes you replenish some of your levitation power.",
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/Perks#Rage_fueled_Levitation"
+            "wiki_url": "https://noita.fandom.com/wiki/Perks#Rage_Fueled_Levitation"
         },
         {
             "id": "LASER_AIM",
