@@ -2,6 +2,7 @@
     --zoom: 3;
     --font-color: rgb(207, 207, 207);
     --font-color-muted: rgb(111, 110, 110);
+    --background: rgb(50, 50, 50);
 }
 
 @media screen and (max-width: 1690px) {
@@ -12,13 +13,16 @@
 
 body {
     margin: 0;
-    background-color: rgb(6, 6, 6);
     font-family: 'NoitaPixel', serif;
     -webkit-font-smoothing: none;
     image-rendering: pixelated;
     cursor: crosshair;
     color: var(--font-color-muted);
     overflow: hidden;
+    background-image: linear-gradient(var(--background), var(--background)), url('./img/site_background.webp');
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
 }
 
 img {
