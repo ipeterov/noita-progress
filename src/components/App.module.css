@@ -1,11 +1,12 @@
 .tables {
-    border: rgb(125, 106, 79) solid calc(1px * var(--zoom));
-    padding: 12px;
+    --scrollbar-color: rgba(117, 117, 117, 50%);
+    border: rgb(145, 129, 103) solid 3px;
+    padding: 8px 17px 10px 19px;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    gap: 10px;
-    background-color: rgb(14, 12, 12);
+    gap: 12px;
+    background-color: rgb(15, 14, 14);
     max-width: fit-content;
     overflow-y: scroll;
     height: calc(100vh - 70px);
@@ -13,19 +14,30 @@
 }
 
 .tables::-webkit-scrollbar {
-    width: 24px;
-    height: 24px;
+    width: 30px;
+    height: 30px;
 }
 
 .tables::-webkit-scrollbar-track {
     background-color: transparent;
     border: solid 3px transparent;
+    box-shadow: inset -3px 0 0 0 var(--scrollbar-color),
+    inset 3px 0 0 0 var(--scrollbar-color),
+    inset 0 3px 0 0 var(--scrollbar-color),
+    inset 0 -3px 0 0 var(--scrollbar-color);
 }
 
 .tables::-webkit-scrollbar-thumb {
     background-color: transparent;
-    box-shadow: inset 0 0 0 2px rgb(77, 77, 77);
-    border: solid 2px transparent;
+    box-shadow: inset -3px 0 0 0 var(--scrollbar-color),
+    inset 3px 0 0 0 var(--scrollbar-color),
+    inset 0 3px 0 0 var(--scrollbar-color),
+    inset 0 -3px 0 0 var(--scrollbar-color);
+    border: solid 3px transparent;
+    background-image: url('../img/thumb.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 12px;
 }
 
 .tables::-webkit-scrollbar-corner {
