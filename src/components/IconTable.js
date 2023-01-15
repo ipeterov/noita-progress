@@ -12,7 +12,7 @@ export default function IconTable({name, icons, columns}) {
         <span className={styles.total}>{icons.length}/{icons.length}</span>
       </div>
       <div className={styles.table} style={{gridTemplateColumns: `repeat(${columns}, 1fr)`}}>
-        {icons.map((icon) => <Icon key={icon.name} icon={icon}/>)}
+        {icons.map((icon) => <Icon key={icon.id} icon={icon}/>)}
       </div>
     </div>
 
