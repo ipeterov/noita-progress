@@ -4,7 +4,9 @@ from icon import Icon
 
 def get_enemy(id_):
     name = translate(f"animal_{id_}")
-    url = f"https://noita.fandom.com/wiki/{name}"
+    url = None
+    if name:
+        url = f"https://noita.fandom.com/wiki/{name}"
     return Icon(
         id=id_,
         name=name,

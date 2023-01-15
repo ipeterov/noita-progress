@@ -150,7 +150,7 @@
             "name": "",
             "description": null,
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/"
+            "wiki_url": null
         },
         {
             "id": "goblin_bomb",
@@ -702,7 +702,7 @@
             "name": "",
             "description": null,
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/"
+            "wiki_url": null
         },
         {
             "id": "basebot_hidden",
@@ -710,7 +710,7 @@
             "name": "",
             "description": null,
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/"
+            "wiki_url": null
         },
         {
             "id": "basebot_neutralizer",
@@ -718,7 +718,7 @@
             "name": "",
             "description": null,
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/"
+            "wiki_url": null
         },
         {
             "id": "basebot_soldier",
@@ -726,7 +726,7 @@
             "name": "",
             "description": null,
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/"
+            "wiki_url": null
         },
         {
             "id": "healerdrone_physics",
@@ -750,7 +750,7 @@
             "name": "",
             "description": null,
             "background_path": null,
-            "wiki_url": "https://noita.fandom.com/wiki/"
+            "wiki_url": null
         },
         {
             "id": "assassin",
@@ -2874,7 +2874,7 @@
             "name": "",
             "description": "",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
-            "wiki_url": "https://noita.fandom.com/wiki/"
+            "wiki_url": null
         },
         {
             "id": "PEBBLE",
