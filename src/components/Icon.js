@@ -32,21 +32,22 @@ export default function Icon({icon}) {
         }
         <img src={loadImage(icon.image_path)} alt={icon.name} className={styles.icon}/>
       </div>
-      <Tooltip anchorId={icon.id} className={styles.tooltip} classNameArrow={styles.tooltipArrow}>
+      <Tooltip
+        place="bottom"
+        offset={29}
+        anchorId={icon.id}
+        className={styles.tooltip}
+        classNameArrow={styles.tooltipArrow}
+      >
         <div>
-          <span className={styles.name}>{icon.name}</span>
+          <div className={styles.name}>{icon.name}</div>
           {icon.description ? (
-            <>
-              <br/>
-              {icon.description}
-            </>
+            <div className={styles.description}>{icon.description}</div>
           ) : null}
           {icon.wiki_url ? (
-            <>
-              <br/>
-              <br/>
+            <div className={styles.wiki}>
               Wiki page available, click the icon!
-            </>
+            </div>
           ) : null}
         </div>
       </Tooltip>

@@ -1,7 +1,7 @@
 :root {
     --zoom: 3;
-    --font-color: rgb(194, 194, 194);
-    --font-color-muted: rgb(91, 91, 91);
+    --font-color: rgb(207, 207, 207);
+    --font-color-muted: rgb(111, 110, 110);
 }
 
 @media screen and (max-width: 1690px) {

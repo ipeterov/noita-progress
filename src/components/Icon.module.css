@@ -13,12 +13,13 @@
 }
 
 .container:hover {
-    transform: scale(115%);
+    transform: scale(120%);
 }
 
 .background {
     height: calc(20px * var(--zoom));
     width: calc(20px * var(--zoom));
+    filter: opacity(50%);
 }
 
 .icon {
@@ -31,12 +32,13 @@
 }
 
 .tooltip {
+    padding: 18px !important;
     color: var(--font-color);
     z-index: 100;
     border: rgb(125, 106, 79) solid calc(1px * var(--zoom));
     border-radius: 0;
-    opacity: 0.95;
-    background-color: rgb(14, 12, 12);
+    opacity: 0.95 !important;
+    background-color: rgb(0, 0, 0) !important;
 }
 
 .tooltipArrow {
@@ -44,5 +46,14 @@
 }
 
 .name {
-    font-size: calc(7px * var(--zoom));
+    font-size: calc(21px);
+    margin-bottom: 16px;
+}
+
+.description {
+    margin-bottom: 16px;
+}
+
+.wiki {
+    color: var(--font-color-muted);
 }

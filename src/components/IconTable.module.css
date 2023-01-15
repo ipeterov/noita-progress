@@ -1,5 +1,6 @@
 .header {
-    font-size: calc(7px * var(--zoom));
+    font-size: calc(7.5px * var(--zoom));
+    margin-bottom: 3px;
 }
 
 .percent {
