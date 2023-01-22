@@ -39,8 +39,7 @@ def get_perks():
             .replace(' ', '_')
             .replace('-', '_')
         )
-        print(slugified)
-        url = f"https://noita.wiki.gg/wiki/{slugified}"
+        url = f"https://noita.wiki.gg/wiki/Perks#{slugified}"
         icons.append(
             Icon(
                 id=perk["id"].s,
