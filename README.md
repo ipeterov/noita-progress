@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+## What is this?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's a site with all the perks, spells, and enemies in Noita that has the same layout as the in-game progress page.
 
-## Available Scripts
+It helps you find the stuff to unlock for 100% progress achievements. You can also click the icons to go to the
+corresponding wiki page - so it can act as a quick cheatsheet for finding a wiki page.
 
-In the project directory, you can run:
+### How to set up a dev environment
 
-### `npm start`
+It's pretty simple! You have to make sure you have `python3` installed, and then install the requirements
+with `pip3 install -r requirements.txt`.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### How to update Wiki links
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+All the links are generated based on translations scraped from the game files - `common.csv`.
 
-### `npm test`
+The actual code (and the template URLs) can be found
+in [scraper/perks.py](scraper/perks.py), [scraper/spells.py](scraper/spells.py),
+and [scraper/enemies.py](scraper/enemies.py).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+After changing the code, re-generate the icons data with `python3 scraper/generate_icons_json.py`
 
-### `npm run build`
+### What to do when a new version of the game is released
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The scraper needs two things to generate all the icons:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* the extracted contents of `data.wak` - a `data/` directory
+* the `common.csv` file
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+It's expecting them both in the root directory, right next to this `README.md` file.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+After that, re-generate the icons data with `python3 scraper/generate_icons_json.py`
