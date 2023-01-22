@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/noita-progress/static/css/main.4870a696.css",
-    "main.js": "/noita-progress/static/js/main.74f44f86.js",
+    "main.js": "/noita-progress/static/js/main.5cdabb9b.js",
     "static/js/787.9bec275d.chunk.js": "/noita-progress/static/js/787.9bec275d.chunk.js",
     "static/media/site_background.webp": "/noita-progress/static/media/site_background.757a42950b9eb7183f6f.webp",
     "static/media/NoitaPixel.ttf": "/noita-progress/static/media/NoitaPixel.9206e6c49f2e035c85fa.ttf",
@@ -25,11 +25,11 @@
     "static/media/item_bg_utility.png": "/noita-progress/static/media/item_bg_utility.62255ead18083f1d4100.png",
     "index.html": "/noita-progress/index.html",
     "main.4870a696.css.map": "/noita-progress/static/css/main.4870a696.css.map",
-    "main.74f44f86.js.map": "/noita-progress/static/js/main.74f44f86.js.map",
+    "main.5cdabb9b.js.map": "/noita-progress/static/js/main.5cdabb9b.js.map",
     "787.9bec275d.chunk.js.map": "/noita-progress/static/js/787.9bec275d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4870a696.css",
-    "static/js/main.74f44f86.js"
+    "static/js/main.5cdabb9b.js"
   ]
 }
