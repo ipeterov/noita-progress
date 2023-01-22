@@ -47,7 +47,7 @@ def get_spells():
         )
         url = None
         if slugified:
-            url = f"https://noita.fandom.com/wiki/{slugified}"
+            url = f"https://noita.wiki.gg/wiki/{slugified}"
         icons.append(
             Icon(
                 id=spell["id"].s,

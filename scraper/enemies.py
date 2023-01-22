@@ -6,7 +6,7 @@ def get_enemy(id_):
     name = translate(f"animal_{id_}")
     url = None
     if name:
-        url = f"https://noita.fandom.com/wiki/{name}"
+        url = f"https://noita.wiki.gg/wiki/{name}"
     return Icon(
         id=id_,
         name=name,
