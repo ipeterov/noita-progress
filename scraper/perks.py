@@ -33,6 +33,7 @@ def get_perks():
             .title()
             .replace('To ', 'to ')
             .replace('In ', 'in ')
+            .replace('Is ', 'is ')
             .replace('On ', 'on ')
             .replace('With ', 'with ')
             .replace('The ', 'the ')
