@@ -48,6 +48,13 @@ def get_spells():
         url = None
         if slugified:
             url = f"https://noita.wiki.gg/wiki/{slugified}"
+
+        if spell["id"].s == "FUNKY_SPELL":
+            name = "???"
+            url = "https://noita.wiki.gg/wiki/%3F%3F%3F_(Spell)"
+        else:
+            name = name[0].upper() + name[1:]
+        
         icons.append(
             Icon(
                 id=spell["id"].s,

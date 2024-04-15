@@ -147,10 +147,10 @@
         {
             "id": "miner_chef",
             "image_path": "dynamic_images/ui_gfx/animal_icons/miner_chef.png",
-            "name": "",
+            "name": "Kokkihiisi",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Kokkihiisi"
         },
         {
             "id": "goblin_bomb",
@@ -699,34 +699,34 @@
         {
             "id": "basebot_sentry",
             "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_sentry.png",
-            "name": "",
+            "name": "Tarkkailija",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Tarkkailija"
         },
         {
             "id": "basebot_hidden",
             "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_hidden.png",
-            "name": "",
+            "name": "Vakoilija",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Vakoilija"
         },
         {
             "id": "basebot_neutralizer",
             "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_neutralizer.png",
-            "name": "",
+            "name": "Pys\u00e4ytt\u00e4j\u00e4",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Pys\u00e4ytt\u00e4j\u00e4"
         },
         {
             "id": "basebot_soldier",
             "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_soldier.png",
-            "name": "",
+            "name": "Teloittaja",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Teloittaja"
         },
         {
             "id": "healerdrone_physics",
@@ -1455,6 +1455,14 @@
             "description": null,
             "background_path": null,
             "wiki_url": "https://noita.wiki.gg/wiki/Toveri"
+        },
+        {
+            "id": "meatmaggot",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/meatmaggot.png",
+            "name": "M\u00e4t\u00e4ry\u00f6mij\u00e4",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/M\u00e4t\u00e4ry\u00f6mij\u00e4"
         }
     ],
     "perks": [
@@ -3007,10 +3015,10 @@
         {
             "id": "FUNKY_SPELL",
             "image_path": "dynamic_images/ui_gfx/gun_actions/machinegun_bullet.png",
-            "name": "",
+            "name": "???",
             "description": "",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/%3F%3F%3F_(Spell)"
         },
         {
             "id": "PEBBLE",
@@ -3359,7 +3367,7 @@
         {
             "id": "MIST_ALCOHOL",
             "image_path": "dynamic_images/ui_gfx/gun_actions/mist_alcohol.png",
-            "name": "mist of spirits",
+            "name": "Mist of spirits",
             "description": "A cloud of potent alcohol",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Mist_of_Spirits"
