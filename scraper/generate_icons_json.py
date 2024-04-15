@@ -1,8 +1,8 @@
 import json
 
-from scraper.enemies import get_enemies
-from scraper.perks import get_perks
-from scraper.spells import get_spells
+from enemies import get_enemies
+from perks import get_perks
+from spells import get_spells
 
 if __name__ == "__main__":
     icons = {

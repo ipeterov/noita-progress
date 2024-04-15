@@ -1,6 +1,6 @@
 import csv
 
-with open('common.csv') as f:
+with open('common.csv', encoding="utf8") as f:
     reader = csv.reader(f)
 
     translation_map = {
