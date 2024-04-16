@@ -1457,12 +1457,28 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Toveri"
         },
         {
+            "id": "boss_sky",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_sky.png",
+            "name": "Kivi",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Kivi"
+        },
+        {
             "id": "meatmaggot",
             "image_path": "dynamic_images/ui_gfx/animal_icons/meatmaggot.png",
             "name": "M\u00e4t\u00e4ry\u00f6mij\u00e4",
             "description": null,
             "background_path": null,
             "wiki_url": "https://noita.wiki.gg/wiki/M\u00e4t\u00e4ry\u00f6mij\u00e4"
+        },
+        {
+            "id": "mimic_potion",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/mimic_potion.png",
+            "name": "Henkev\u00e4 potu",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Henkev\u00e4 potu"
         }
     ],
     "perks": [
