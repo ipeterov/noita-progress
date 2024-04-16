@@ -5,20 +5,20 @@ import Icon from "./Icon";
 import styles from "./IconTable.module.css";
 
 export default function IconTable({ name, icons, columns }) {
+  let totalCount = icons.length;
+  if (name === "Enemies") {
+    // To replicate the in-game behavior - 100.5% 186/185
+    totalCount += 1;
+  }
+
   return (
     <div>
       <div className={styles.header}>
         <span className={styles.percent}>
-          {name} -{" "}
-          {Math.round(
-            ((name === "Enemies" ? icons.length + 1 : icons.length) /
-              icons.length) *
-              1000
-          ) / 10}
-          %
+          {name} - {Math.round((totalCount / icons.length) * 1000) / 10}%
         </span>{" "}
         <span className={styles.total}>
-          {name === "Enemies" ? icons.length + 1 : icons.length}/{icons.length}
+          {totalCount}/{icons.length}
         </span>
       </div>
       <div
