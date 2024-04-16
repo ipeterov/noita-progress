@@ -5,6 +5,18 @@ from icon import Icon
 def get_enemy(id_):
     name = translate(f"animal_{id_}")
     url = None
+
+    if id_ == "miner_chef":
+        name = "Kokkihiisi"
+    elif id_ == "basebot_sentry":
+        name = "Tarkkailija"
+    elif id_ == "basebot_hidden":
+        name = "Vakoilija"
+    elif id_ == "basebot_neutralizer":
+        name = "Pysäyttäjä"
+    elif id_ == "basebot_soldier":
+        name = "Teloittaja"
+
     if name:
         url = f"https://noita.wiki.gg/wiki/{name}"
     return Icon(

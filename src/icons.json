@@ -147,10 +147,10 @@
         {
             "id": "miner_chef",
             "image_path": "dynamic_images/ui_gfx/animal_icons/miner_chef.png",
-            "name": "",
+            "name": "Kokkihiisi",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Kokkihiisi"
         },
         {
             "id": "goblin_bomb",
@@ -259,10 +259,10 @@
         {
             "id": "alchemist",
             "image_path": "dynamic_images/ui_gfx/animal_icons/alchemist.png",
-            "name": "Alkemisti",
+            "name": "Puistokemisti",
             "description": null,
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Alkemisti"
+            "wiki_url": "https://noita.wiki.gg/wiki/Puistokemisti"
         },
         {
             "id": "sniper",
@@ -699,34 +699,34 @@
         {
             "id": "basebot_sentry",
             "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_sentry.png",
-            "name": "",
+            "name": "Tarkkailija",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Tarkkailija"
         },
         {
             "id": "basebot_hidden",
             "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_hidden.png",
-            "name": "",
+            "name": "Vakoilija",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Vakoilija"
         },
         {
             "id": "basebot_neutralizer",
             "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_neutralizer.png",
-            "name": "",
+            "name": "Pys\u00e4ytt\u00e4j\u00e4",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Pys\u00e4ytt\u00e4j\u00e4"
         },
         {
             "id": "basebot_soldier",
             "image_path": "dynamic_images/ui_gfx/animal_icons/basebot_soldier.png",
-            "name": "",
+            "name": "Teloittaja",
             "description": null,
             "background_path": null,
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/Teloittaja"
         },
         {
             "id": "healerdrone_physics",
@@ -1121,6 +1121,38 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Kiukkukalma"
         },
         {
+            "id": "confusespirit",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/confusespirit.png",
+            "name": "Utu-Aave",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Utu-Aave"
+        },
+        {
+            "id": "berserkspirit",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/berserkspirit.png",
+            "name": "Viha-Aave",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Viha-Aave"
+        },
+        {
+            "id": "weakspirit",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/weakspirit.png",
+            "name": "Kaamo-Aave",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Kaamo-Aave"
+        },
+        {
+            "id": "slimespirit",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/slimespirit.png",
+            "name": "Neva-Aave",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Neva-Aave"
+        },
+        {
             "id": "necromancer",
             "image_path": "dynamic_images/ui_gfx/animal_icons/necromancer.png",
             "name": "Hahmonvaihtaja",
@@ -1193,12 +1225,44 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Jalkamatkatavara"
         },
         {
+            "id": "miner_hell",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/miner_hell.png",
+            "name": "Hornantappurahiisi",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Hornantappurahiisi"
+        },
+        {
+            "id": "shotgunner_hell",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/shotgunner_hell.png",
+            "name": "Hornahiisi",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Hornahiisi"
+        },
+        {
+            "id": "sniper_hell",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/sniper_hell.png",
+            "name": "Hornasnipuhiisi",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Hornasnipuhiisi"
+        },
+        {
             "id": "dark_alchemist",
             "image_path": "dynamic_images/ui_gfx/animal_icons/dark_alchemist.png",
             "name": "Pahan muisto",
             "description": null,
             "background_path": null,
             "wiki_url": "https://noita.wiki.gg/wiki/Pahan muisto"
+        },
+        {
+            "id": "shaman_wind",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/shaman_wind.png",
+            "name": "Valhe",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Valhe"
         },
         {
             "id": "necromancer_shop",
@@ -1233,6 +1297,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Kolmisilm\u00e4n koipi"
         },
         {
+            "id": "boss_meat",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_meat.png",
+            "name": "Kolmisilm\u00e4n syd\u00e4n",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Kolmisilm\u00e4n syd\u00e4n"
+        },
+        {
             "id": "boss_alchemist",
             "image_path": "dynamic_images/ui_gfx/animal_icons/boss_alchemist.png",
             "name": "Ylialkemisti",
@@ -1263,6 +1335,14 @@
             "description": null,
             "background_path": null,
             "wiki_url": "https://noita.wiki.gg/wiki/H\u00e4ive"
+        },
+        {
+            "id": "islandspirit",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/islandspirit.png",
+            "name": "Tapion vasalli",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Tapion vasalli"
         },
         {
             "id": "boss_pit",
@@ -1375,6 +1455,30 @@
             "description": null,
             "background_path": null,
             "wiki_url": "https://noita.wiki.gg/wiki/Toveri"
+        },
+        {
+            "id": "boss_sky",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/boss_sky.png",
+            "name": "Kivi",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Kivi"
+        },
+        {
+            "id": "meatmaggot",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/meatmaggot.png",
+            "name": "M\u00e4t\u00e4ry\u00f6mij\u00e4",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/M\u00e4t\u00e4ry\u00f6mij\u00e4"
+        },
+        {
+            "id": "mimic_potion",
+            "image_path": "dynamic_images/ui_gfx/animal_icons/mimic_potion.png",
+            "name": "Henkev\u00e4 potu",
+            "description": null,
+            "background_path": null,
+            "wiki_url": "https://noita.wiki.gg/wiki/Henkev\u00e4 potu"
         }
     ],
     "perks": [
@@ -1384,7 +1488,7 @@
             "name": "Critical Hit +",
             "description": "You get more critical hits",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Critical_Hit_+"
+            "wiki_url": "https://noita.wiki.gg/wiki/Critical_Hit_+"
         },
         {
             "id": "BREATH_UNDERWATER",
@@ -1392,7 +1496,7 @@
             "name": "Breathless",
             "description": "You can no longer drown, and can move in liquids with ease.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Breathless"
+            "wiki_url": "https://noita.wiki.gg/wiki/Breathless"
         },
         {
             "id": "EXTRA_MONEY",
@@ -1400,7 +1504,7 @@
             "name": "Greed",
             "description": "You gain double the gold per nugget.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Greed"
+            "wiki_url": "https://noita.wiki.gg/wiki/Greed"
         },
         {
             "id": "EXTRA_MONEY_TRICK_KILL",
@@ -1408,7 +1512,7 @@
             "name": "Trick Greed",
             "description": "4x instead of 2x gold is dropped when death is an accident.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Trick_Greed"
+            "wiki_url": "https://noita.wiki.gg/wiki/Trick_Greed"
         },
         {
             "id": "GOLD_IS_FOREVER",
@@ -1416,7 +1520,7 @@
             "name": "Gold Is Forever",
             "description": "Gold nuggets never disappear.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Gold_is_Forever"
+            "wiki_url": "https://noita.wiki.gg/wiki/Gold_is_Forever"
         },
         {
             "id": "TRICK_BLOOD_MONEY",
@@ -1424,7 +1528,7 @@
             "name": "Trick Blood Money",
             "description": "Blood money is dropped when death is an accident.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Trick_Blood_Money"
+            "wiki_url": "https://noita.wiki.gg/wiki/Trick_Blood_Money"
         },
         {
             "id": "EXPLODING_GOLD",
@@ -1432,7 +1536,7 @@
             "name": "Exploding Gold",
             "description": "Gold dropped by enemies explodes when it disappears, is picked up or touched by other enemies!",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Exploding_Gold"
+            "wiki_url": "https://noita.wiki.gg/wiki/Exploding_Gold"
         },
         {
             "id": "HOVER_BOOST",
@@ -1440,7 +1544,7 @@
             "name": "Strong Levitation",
             "description": "You can fly 100% longer.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Strong_Levitation"
+            "wiki_url": "https://noita.wiki.gg/wiki/Strong_Levitation"
         },
         {
             "id": "FASTER_LEVITATION",
@@ -1448,7 +1552,7 @@
             "name": "Faster Levitation",
             "description": "You levitate 75% faster.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Faster_Levitation"
+            "wiki_url": "https://noita.wiki.gg/wiki/Faster_Levitation"
         },
         {
             "id": "MOVEMENT_FASTER",
@@ -1456,7 +1560,7 @@
             "name": "Faster Movement",
             "description": "Your movement speed is increased.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Faster_Movement"
+            "wiki_url": "https://noita.wiki.gg/wiki/Faster_Movement"
         },
         {
             "id": "STRONG_KICK",
@@ -1464,7 +1568,7 @@
             "name": "Never Skip Leg Day",
             "description": "Your kicks deal extra damage and knockback.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Never_Skip_Leg_Day"
+            "wiki_url": "https://noita.wiki.gg/wiki/Never_Skip_Leg_Day"
         },
         {
             "id": "TELEKINESIS",
@@ -1472,7 +1576,7 @@
             "name": "Telekinetic Kick",
             "description": "You gain new telekinetic powers.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Telekinetic_Kick"
+            "wiki_url": "https://noita.wiki.gg/wiki/Telekinetic_Kick"
         },
         {
             "id": "REPELLING_CAPE",
@@ -1480,7 +1584,7 @@
             "name": "Repelling Cape",
             "description": "Stains drop at a fast rate (when moving).",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Repelling_Cape"
+            "wiki_url": "https://noita.wiki.gg/wiki/Repelling_Cape"
         },
         {
             "id": "EXPLODING_CORPSES",
@@ -1488,7 +1592,7 @@
             "name": "Exploding Corpses",
             "description": "Enemies explode upon death, but you gain immunity to explosive damage.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Exploding_Corpses"
+            "wiki_url": "https://noita.wiki.gg/wiki/Exploding_Corpses"
         },
         {
             "id": "SAVING_GRACE",
@@ -1496,7 +1600,7 @@
             "name": "Saving Grace",
             "description": "If you would die and have more than 1 HP, your HP is set to 1 instead.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Saving_Grace"
+            "wiki_url": "https://noita.wiki.gg/wiki/Saving_Grace"
         },
         {
             "id": "INVISIBILITY",
@@ -1504,7 +1608,7 @@
             "name": "Invisibility",
             "description": "You're invisible. Stains, casting spells, kicking and taking damage makes you temporarily visible.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Invisibility"
+            "wiki_url": "https://noita.wiki.gg/wiki/Invisibility"
         },
         {
             "id": "GLOBAL_GORE",
@@ -1512,7 +1616,7 @@
             "name": "More Blood",
             "description": "Blood blood blood.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#More_Blood"
+            "wiki_url": "https://noita.wiki.gg/wiki/More_Blood"
         },
         {
             "id": "REMOVE_FOG_OF_WAR",
@@ -1520,7 +1624,7 @@
             "name": "All-Seeing Eye",
             "description": "You can see everywhere.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#All_Seeing_Eye"
+            "wiki_url": "https://noita.wiki.gg/wiki/All_Seeing_Eye"
         },
         {
             "id": "LEVITATION_TRAIL",
@@ -1528,15 +1632,15 @@
             "name": "Levitation Trail",
             "description": "When levitating, you leave a trail of magical sparks that harm passing creatures.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Levitation_Trail"
+            "wiki_url": "https://noita.wiki.gg/wiki/Levitation_Trail"
         },
         {
             "id": "VAMPIRISM",
             "image_path": "dynamic_images/items_gfx/perks/vampirism.png",
             "name": "Vampirism",
-            "description": "You lose 25% maximum health, but can replenish health by drinking blood. Blood doesn't affect satiation level.",
+            "description": "You lose 25% maximum health, but can replenish health by drinking blood.\\nBlood doesn't affect satiation level and you no longer suffer from food poisoning.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Vampirism"
+            "wiki_url": "https://noita.wiki.gg/wiki/Vampirism"
         },
         {
             "id": "EXTRA_HP",
@@ -1544,7 +1648,7 @@
             "name": "Extra Health (One-off)",
             "description": "You gain 50% extra maximum health.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Extra_Health"
+            "wiki_url": "https://noita.wiki.gg/wiki/Extra_Health"
         },
         {
             "id": "HEARTS_MORE_EXTRA_HP",
@@ -1552,7 +1656,7 @@
             "name": "Stronger Hearts",
             "description": "Hearts bestow more maximum health.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Stronger_Hearts"
+            "wiki_url": "https://noita.wiki.gg/wiki/Stronger_Hearts"
         },
         {
             "id": "GLASS_CANNON",
@@ -1560,7 +1664,7 @@
             "name": "Glass Cannon",
             "description": "Your spells are 5 times as powerful, but your maximum health becomes 50 and cannot be increased by normal hearts.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Glass_Cannon"
+            "wiki_url": "https://noita.wiki.gg/wiki/Glass_Cannon"
         },
         {
             "id": "LOW_HP_DAMAGE_BOOST",
@@ -1568,7 +1672,7 @@
             "name": "Living on the Edge",
             "description": "Your spells deal 3x damage when you're under 25 HP or 25% of maximum health.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Living_on_the_Edge"
+            "wiki_url": "https://noita.wiki.gg/wiki/Living_on_the_Edge"
         },
         {
             "id": "RESPAWN",
@@ -1576,7 +1680,7 @@
             "name": "Extra Life (One-off)",
             "description": "Upon death you respawn with 100 health.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Extra_Life"
+            "wiki_url": "https://noita.wiki.gg/wiki/Extra_Life"
         },
         {
             "id": "WORM_ATTRACTOR",
@@ -1584,7 +1688,7 @@
             "name": "Worm Attractor",
             "description": "Worms find you attractive.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Worm_Attractor"
+            "wiki_url": "https://noita.wiki.gg/wiki/Worm_Attractor"
         },
         {
             "id": "RADAR_ENEMY",
@@ -1592,7 +1696,7 @@
             "name": "Enemy Radar",
             "description": "You can sense nearby enemies.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Enemy_Radar"
+            "wiki_url": "https://noita.wiki.gg/wiki/Enemy_Radar"
         },
         {
             "id": "FOOD_CLOCK",
@@ -1600,7 +1704,7 @@
             "name": "Eat Your Vegetables",
             "description": "You inflict more damage the more satiated you are, but you start losing health if your stomach is empty.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Eat_Your_Vegetables"
+            "wiki_url": "https://noita.wiki.gg/wiki/Eat_Your_Vegetables"
         },
         {
             "id": "IRON_STOMACH",
@@ -1608,7 +1712,7 @@
             "name": "Iron Stomach",
             "description": "You no longer suffer from negative effects of eating.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Iron_Stomach"
+            "wiki_url": "https://noita.wiki.gg/wiki/Iron_Stomach"
         },
         {
             "id": "WAND_RADAR",
@@ -1616,7 +1720,7 @@
             "name": "Wand Radar",
             "description": "You can sense nearby wands.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Wand_Radar"
+            "wiki_url": "https://noita.wiki.gg/wiki/Wand_Radar"
         },
         {
             "id": "ITEM_RADAR",
@@ -1624,7 +1728,7 @@
             "name": "Item Radar",
             "description": "You can sense nearby items.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Item_Radar"
+            "wiki_url": "https://noita.wiki.gg/wiki/Item_Radar"
         },
         {
             "id": "MOON_RADAR",
@@ -1632,7 +1736,7 @@
             "name": "Moon Radar",
             "description": "You can sense lunar energy.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Moon_Radar"
+            "wiki_url": "https://noita.wiki.gg/wiki/Moon_Radar"
         },
         {
             "id": "MAP",
@@ -1640,7 +1744,7 @@
             "name": "Spatial Awareness",
             "description": "If you stop for a moment, you can sense your location relative to the Mountain.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Spatial_Awareness"
+            "wiki_url": "https://noita.wiki.gg/wiki/Spatial_Awareness"
         },
         {
             "id": "PROTECTION_FIRE",
@@ -1648,7 +1752,7 @@
             "name": "Fire Immunity",
             "description": "You take no damage from fire.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Fire_Immunity"
+            "wiki_url": "https://noita.wiki.gg/wiki/Fire_Immunity"
         },
         {
             "id": "PROTECTION_RADIOACTIVITY",
@@ -1656,7 +1760,7 @@
             "name": "Toxic Immunity",
             "description": "You take no damage from toxic sludge and other toxic things.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Toxic_Immunity"
+            "wiki_url": "https://noita.wiki.gg/wiki/Toxic_Immunity"
         },
         {
             "id": "PROTECTION_EXPLOSION",
@@ -1664,7 +1768,7 @@
             "name": "Explosion Immunity",
             "description": "You take no direct damage from explosions.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Explosion_Immunity"
+            "wiki_url": "https://noita.wiki.gg/wiki/Explosion_Immunity"
         },
         {
             "id": "PROTECTION_MELEE",
@@ -1672,7 +1776,7 @@
             "name": "Melee Immunity",
             "description": "You take no damage from close-range enemy attacks.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Melee_Immunity"
+            "wiki_url": "https://noita.wiki.gg/wiki/Melee_Immunity"
         },
         {
             "id": "PROTECTION_ELECTRICITY",
@@ -1680,7 +1784,7 @@
             "name": "Electricity Immunity",
             "description": "You take no damage from electric shocks.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Electricity_Immunity"
+            "wiki_url": "https://noita.wiki.gg/wiki/Electricity_Immunity"
         },
         {
             "id": "TELEPORTITIS",
@@ -1688,7 +1792,7 @@
             "name": "Teleportitis",
             "description": "You take 20% less damage. You teleport away every time you're hurt.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Teleportitis"
+            "wiki_url": "https://noita.wiki.gg/wiki/Teleportitis"
         },
         {
             "id": "TELEPORTITIS_DODGE",
@@ -1696,7 +1800,7 @@
             "name": "Teleportitis Dodge",
             "description": "You teleport a short distance away when an enemy projectile is near.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Teleportitis_Dodge"
+            "wiki_url": "https://noita.wiki.gg/wiki/Teleportitis_Dodge"
         },
         {
             "id": "STAINLESS_ARMOUR",
@@ -1704,7 +1808,7 @@
             "name": "Stainless Armour",
             "description": "You take 50% less damage as long as you have no active stain status effect.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Stainless_Armour"
+            "wiki_url": "https://noita.wiki.gg/wiki/Stainless_Armour"
         },
         {
             "id": "EDIT_WANDS_EVERYWHERE",
@@ -1712,7 +1816,7 @@
             "name": "Tinker With Wands Everywhere",
             "description": "A divine blessing allows you to tinker with wands everywhere.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Tinker_with_Wands_Everywhere"
+            "wiki_url": "https://noita.wiki.gg/wiki/Tinker_with_Wands_Everywhere"
         },
         {
             "id": "NO_WAND_EDITING",
@@ -1720,7 +1824,7 @@
             "name": "No Wand Tinkering",
             "description": "Wands cannot be tinkered with, but enemies may drop blood money.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#No_Wand_Tinkering"
+            "wiki_url": "https://noita.wiki.gg/wiki/No_Wand_Tinkering"
         },
         {
             "id": "WAND_EXPERIMENTER",
@@ -1728,7 +1832,7 @@
             "name": "Wand Experimenter",
             "description": "Firing newly found and unmodified wands heals you.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Wand_Experimenter"
+            "wiki_url": "https://noita.wiki.gg/wiki/Wand_Experimenter"
         },
         {
             "id": "ADVENTURER",
@@ -1736,7 +1840,7 @@
             "name": "Healthy Exploration",
             "description": "Every time you visit a new area, you regain 60 health.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Healthy_Exploration"
+            "wiki_url": "https://noita.wiki.gg/wiki/Healthy_Exploration"
         },
         {
             "id": "ABILITY_ACTIONS_MATERIALIZED",
@@ -1744,7 +1848,7 @@
             "name": "Bombs Materialized",
             "description": "Bomb-like spells can be placed in the ITEMS space in inventory and used like throwable items.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Bombs_Materialized"
+            "wiki_url": "https://noita.wiki.gg/wiki/Bombs_Materialized"
         },
         {
             "id": "PROJECTILE_HOMING",
@@ -1752,7 +1856,7 @@
             "name": "Homing Shots",
             "description": "Your spells home towards enemies very slightly.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Homing_Shots"
+            "wiki_url": "https://noita.wiki.gg/wiki/Homing_Shots"
         },
         {
             "id": "PROJECTILE_HOMING_SHOOTER",
@@ -1760,7 +1864,7 @@
             "name": "Boomerang Spells",
             "description": "Your spells arc towards you, but gain extra speed and deal extra damage.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Boomerang_Spells"
+            "wiki_url": "https://noita.wiki.gg/wiki/Boomerang_Spells"
         },
         {
             "id": "UNLIMITED_SPELLS",
@@ -1768,7 +1872,7 @@
             "name": "Unlimited Spells",
             "description": "Most spells are now unlimited.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Unlimited_Spells"
+            "wiki_url": "https://noita.wiki.gg/wiki/Unlimited_Spells"
         },
         {
             "id": "FREEZE_FIELD",
@@ -1776,7 +1880,7 @@
             "name": "Freeze Field",
             "description": "Liquids freeze in your presence.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Freeze_Field"
+            "wiki_url": "https://noita.wiki.gg/wiki/Freeze_Field"
         },
         {
             "id": "FIRE_GAS",
@@ -1784,7 +1888,7 @@
             "name": "Gas fire",
             "description": "Gases near you ignite automatically.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Gas_Fire"
+            "wiki_url": "https://noita.wiki.gg/wiki/Gas_Fire"
         },
         {
             "id": "DISSOLVE_POWDERS",
@@ -1792,7 +1896,7 @@
             "name": "Dissolve Powders",
             "description": "Sand and other soft, powdery materials dissolve quickly in your presence.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Dissolve_Powders"
+            "wiki_url": "https://noita.wiki.gg/wiki/Dissolve_Powders"
         },
         {
             "id": "BLEED_SLIME",
@@ -1800,7 +1904,7 @@
             "name": "Slime Blood",
             "description": "You bleed slime, but slime no longer slows you down and you have higher projectile resistance.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Slime_Blood"
+            "wiki_url": "https://noita.wiki.gg/wiki/Slime_Blood"
         },
         {
             "id": "BLEED_OIL",
@@ -1808,7 +1912,7 @@
             "name": "Oil Blood",
             "description": "You bleed flammable oil, but are immune to fire.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Oil_Blood"
+            "wiki_url": "https://noita.wiki.gg/wiki/Oil_Blood"
         },
         {
             "id": "BLEED_GAS",
@@ -1816,7 +1920,7 @@
             "name": "Gas Blood",
             "description": "You bleed flammable gas instead of blood.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Gas_Blood"
+            "wiki_url": "https://noita.wiki.gg/wiki/Gas_Blood"
         },
         {
             "id": "SHIELD",
@@ -1824,7 +1928,7 @@
             "name": "Permanent Shield",
             "description": "You gain a small, permanent shield.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Permanent_Shield"
+            "wiki_url": "https://noita.wiki.gg/wiki/Permanent_Shield"
         },
         {
             "id": "REVENGE_EXPLOSION",
@@ -1832,7 +1936,7 @@
             "name": "Revenge Explosion",
             "description": "You release a magical explosion upon taking damage, and gain 25% resistance against explosions.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Revenge_Explosion"
+            "wiki_url": "https://noita.wiki.gg/wiki/Revenge_Explosion"
         },
         {
             "id": "REVENGE_TENTACLE",
@@ -1840,7 +1944,7 @@
             "name": "Revenge Tentacle",
             "description": "You summon a monstrous tentacle upon taking damage, and gain 25% resistance against projectiles.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Revenge_Tentacle"
+            "wiki_url": "https://noita.wiki.gg/wiki/Revenge_Tentacle"
         },
         {
             "id": "REVENGE_RATS",
@@ -1848,7 +1952,7 @@
             "name": "Revenge Rats",
             "description": "When you take damage, there's a chance that a helpful rat minion is summoned",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Revenge_Rats"
+            "wiki_url": "https://noita.wiki.gg/wiki/Revenge_Rats"
         },
         {
             "id": "REVENGE_BULLET",
@@ -1856,7 +1960,7 @@
             "name": "Revenge bullets",
             "description": "You return fire when hit by projectiles, and you gain 20% resistance against explosions and projectiles.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Revenge_Bullets"
+            "wiki_url": "https://noita.wiki.gg/wiki/Revenge_Bullets"
         },
         {
             "id": "ATTACK_FOOT",
@@ -1864,7 +1968,7 @@
             "name": "Lukki Mutation",
             "description": "You grow curious additional limbs that fight for you.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Lukki_Mutation"
+            "wiki_url": "https://noita.wiki.gg/wiki/Lukki_Mutation"
         },
         {
             "id": "LEGGY_FEET",
@@ -1872,7 +1976,7 @@
             "name": "Leggy Mutation",
             "description": "You grow disturbing looking limbs that fight for you.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Leggy_Mutation"
+            "wiki_url": "https://noita.wiki.gg/wiki/Leggy_Mutation"
         },
         {
             "id": "PLAGUE_RATS",
@@ -1880,7 +1984,7 @@
             "name": "Plague Rats",
             "description": "Dying enemies release rats to serve your bidding! All rats become your friend.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Plague_Rats"
+            "wiki_url": "https://noita.wiki.gg/wiki/Plague_Rats"
         },
         {
             "id": "VOMIT_RATS",
@@ -1888,7 +1992,7 @@
             "name": "Spontaneous Generation",
             "description": "Vomit near you evolves into helpful rat minions",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Spontaneous_Generation"
+            "wiki_url": "https://noita.wiki.gg/wiki/Spontaneous_Generation"
         },
         {
             "id": "CORDYCEPS",
@@ -1896,7 +2000,7 @@
             "name": "Cordyceps",
             "description": "Fungal creatures spawn from the corpses of enemies killed by you.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Cordyceps"
+            "wiki_url": "https://noita.wiki.gg/wiki/Cordyceps"
         },
         {
             "id": "MOLD",
@@ -1904,7 +2008,7 @@
             "name": "Fungal Colony",
             "description": "Slime near you spontaneously turns into fungal creatures.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Fungal_Colony"
+            "wiki_url": "https://noita.wiki.gg/wiki/Fungal_Colony"
         },
         {
             "id": "WORM_SMALLER_HOLES",
@@ -1912,7 +2016,7 @@
             "name": "Feared by Worms",
             "description": "Worms run away from you, and worm and lukki enemies no longer destroy terrain while burrowing.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Feared_by_Worms"
+            "wiki_url": "https://noita.wiki.gg/wiki/Feared_by_Worms"
         },
         {
             "id": "PROJECTILE_REPULSION",
@@ -1920,7 +2024,7 @@
             "name": "Projectile Repulsion Field",
             "description": "Most projectiles are repulsed by your presence, but you take slightly more projectile damage.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Projectile_Repulsion_Field"
+            "wiki_url": "https://noita.wiki.gg/wiki/Projectile_Repulsion_Field"
         },
         {
             "id": "RISKY_CRITICAL",
@@ -1928,7 +2032,7 @@
             "name": "Close Call",
             "description": "You gain additional chance to deal critical hits as long as there are enemies near you.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Close_Call"
+            "wiki_url": "https://noita.wiki.gg/wiki/Close_Call"
         },
         {
             "id": "FUNGAL_DISEASE",
@@ -1936,7 +2040,7 @@
             "name": "Fungal Disease",
             "description": "When near danger, you sprout fungal growths.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Fungal_Disease"
+            "wiki_url": "https://noita.wiki.gg/wiki/Fungal_Disease"
         },
         {
             "id": "PROJECTILE_SLOW_FIELD",
@@ -1944,7 +2048,7 @@
             "name": "Projectile Slower",
             "description": "Projectiles near you slow down.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Projectile_Slower"
+            "wiki_url": "https://noita.wiki.gg/wiki/Projectile_Slower"
         },
         {
             "id": "PROJECTILE_REPULSION_SECTOR",
@@ -1952,7 +2056,7 @@
             "name": "Projectile Repulsion Sector",
             "description": "Projectiles that fly into a small sector in front of you get blown away.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Projectile_Repulsion_Sector"
+            "wiki_url": "https://noita.wiki.gg/wiki/Projectile_Repulsion_Sector"
         },
         {
             "id": "PROJECTILE_EATER_SECTOR",
@@ -1960,7 +2064,7 @@
             "name": "Projectile Eater",
             "description": "Projectiles that fly into a small sector behind of you disappear.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Projectile_Eater"
+            "wiki_url": "https://noita.wiki.gg/wiki/Projectile_Eater"
         },
         {
             "id": "ORBIT",
@@ -1968,7 +2072,7 @@
             "name": "Phasing",
             "description": "Projectiles seemingly phase through you.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Phasing"
+            "wiki_url": "https://noita.wiki.gg/wiki/Phasing"
         },
         {
             "id": "ANGRY_GHOST",
@@ -1976,7 +2080,7 @@
             "name": "Angry ghost",
             "description": "An angry spirit comes to your aid, copying nearby spells and projectiles.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Angry_Ghost"
+            "wiki_url": "https://noita.wiki.gg/wiki/Angry_Ghost"
         },
         {
             "id": "HUNGRY_GHOST",
@@ -1984,7 +2088,7 @@
             "name": "Hungry Ghost",
             "description": "Summons a happy minion who'll eat enemy projectile every now and then.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Hungry_Ghost"
+            "wiki_url": "https://noita.wiki.gg/wiki/Hungry_Ghost"
         },
         {
             "id": "DEATH_GHOST",
@@ -1992,7 +2096,7 @@
             "name": "Mournful Spirit",
             "description": "Dying creatures leave behind a spirit that deals damage in a small area.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Mournful_Spirit"
+            "wiki_url": "https://noita.wiki.gg/wiki/Mournful_Spirit"
         },
         {
             "id": "HOMUNCULUS",
@@ -2000,7 +2104,7 @@
             "name": "Homunculus",
             "description": "Every time you leave a Holy Mountain, a helpful homunculus is summoned.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Homunculus"
+            "wiki_url": "https://noita.wiki.gg/wiki/Homunculus"
         },
         {
             "id": "LUKKI_MINION",
@@ -2008,7 +2112,7 @@
             "name": "Lukki Minion",
             "description": "Summons a lukki minion to your help.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Lukki_Minion"
+            "wiki_url": "https://noita.wiki.gg/wiki/Lukki_Minion"
         },
         {
             "id": "ELECTRICITY",
@@ -2016,7 +2120,7 @@
             "name": "Electricity",
             "description": "You're immune to electric damage, but metal and liquids around you electrify constantly. Look out!",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Electricity"
+            "wiki_url": "https://noita.wiki.gg/wiki/Electricity"
         },
         {
             "id": "ATTRACT_ITEMS",
@@ -2024,7 +2128,7 @@
             "name": "Attract Gold",
             "description": "Gold nuggets gravitate towards you.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Attract_Gold"
+            "wiki_url": "https://noita.wiki.gg/wiki/Attract_Gold"
         },
         {
             "id": "EXTRA_KNOCKBACK",
@@ -2032,7 +2136,7 @@
             "name": "Extra Knockback on Spells",
             "description": "Your spells knock enemies around with more force.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Extra_Knockback_on_Spells"
+            "wiki_url": "https://noita.wiki.gg/wiki/Extra_Knockback_on_Spells"
         },
         {
             "id": "LOWER_SPREAD",
@@ -2040,7 +2144,7 @@
             "name": "Concentrated Spells",
             "description": "Your spells have lower spread and extra damage, but have increased cast delay.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Concentrated_Spells"
+            "wiki_url": "https://noita.wiki.gg/wiki/Concentrated_Spells"
         },
         {
             "id": "LOW_RECOIL",
@@ -2048,7 +2152,7 @@
             "name": "Low Recoil",
             "description": "Recoil caused by your spells is greatly reduced, but your spells fly slightly slower.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Low_Recoil"
+            "wiki_url": "https://noita.wiki.gg/wiki/Low_Recoil"
         },
         {
             "id": "BOUNCE",
@@ -2056,7 +2160,7 @@
             "name": "Bouncing Spells",
             "description": "Almost all your spells bounce around and last longer.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Bouncing_Spells"
+            "wiki_url": "https://noita.wiki.gg/wiki/Bouncing_Spells"
         },
         {
             "id": "FAST_PROJECTILES",
@@ -2064,7 +2168,7 @@
             "name": "Faster Projectiles",
             "description": "Your projectile spells fly faster than before.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Faster_Projectiles"
+            "wiki_url": "https://noita.wiki.gg/wiki/Faster_Projectiles"
         },
         {
             "id": "ALWAYS_CAST",
@@ -2072,7 +2176,7 @@
             "name": "Always Cast (One-off)",
             "description": "A random Always Cast spell is added to the wand in your hand, up to a maximum of 4.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Always_Cast"
+            "wiki_url": "https://noita.wiki.gg/wiki/Always_Cast"
         },
         {
             "id": "EXTRA_MANA",
@@ -2080,7 +2184,7 @@
             "name": "High Mana, Low Capacity (One-off)",
             "description": "Your currently held wand loses half its capacity, but gains more mana.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#High_Mana,_Low_Capacity"
+            "wiki_url": "https://noita.wiki.gg/wiki/High_Mana,_Low_Capacity"
         },
         {
             "id": "NO_MORE_SHUFFLE",
@@ -2088,7 +2192,7 @@
             "name": "No More Shuffle",
             "description": "Most of the wands will be non shuffling. The wands you carry with you turn into non-shufflers too.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#No_More_Shuffle"
+            "wiki_url": "https://noita.wiki.gg/wiki/No_More_Shuffle"
         },
         {
             "id": "NO_MORE_KNOCKBACK",
@@ -2096,7 +2200,7 @@
             "name": "No More Knockback",
             "description": "Enemies can no longer knock you back.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#No_More_Knockback"
+            "wiki_url": "https://noita.wiki.gg/wiki/No_More_Knockback"
         },
         {
             "id": "DUPLICATE_PROJECTILE",
@@ -2104,7 +2208,7 @@
             "name": "Projectile duplication",
             "description": "Your projectile spells have a chance to duplicate, but you're more vulnerable to projectile damage",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Projectile_Duplication"
+            "wiki_url": "https://noita.wiki.gg/wiki/Projectile_Duplication"
         },
         {
             "id": "FASTER_WANDS",
@@ -2112,7 +2216,7 @@
             "name": "Faster Wands (One-off)",
             "description": "All wands you're currently carrying gain a bonus to their cast delay & reload time.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Faster_Wands"
+            "wiki_url": "https://noita.wiki.gg/wiki/Faster_Wands"
         },
         {
             "id": "EXTRA_SLOTS",
@@ -2120,15 +2224,15 @@
             "name": "Extra Wand Capacity (One-off)",
             "description": "The wands you're currently carrying gain 1-3 additional spell slots (to a maximum of 25).",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Extra_Wand_Capacity"
+            "wiki_url": "https://noita.wiki.gg/wiki/Extra_Wand_Capacity"
         },
         {
             "id": "CONTACT_DAMAGE",
             "image_path": "dynamic_images/items_gfx/perks/contact_damage.png",
             "name": "Contact Damage",
-            "description": "Enemies near you take damage; the damage is higher the lower your health gets.",
+            "description": "Enemies near you take damage, the damage is higher the lower your health gets.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Contact_Damage"
+            "wiki_url": "https://noita.wiki.gg/wiki/Contact_Damage"
         },
         {
             "id": "EXTRA_PERK",
@@ -2136,7 +2240,7 @@
             "name": "Extra Perk",
             "description": "From now on you will find an extra perk in every Holy Mountain.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Extra_Perk"
+            "wiki_url": "https://noita.wiki.gg/wiki/Extra_Perk"
         },
         {
             "id": "PERKS_LOTTERY",
@@ -2144,7 +2248,7 @@
             "name": "Perk Lottery",
             "description": "When you pick a perk, there's a 50% chance the others won't disappear.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Perk_Lottery"
+            "wiki_url": "https://noita.wiki.gg/wiki/Perk_Lottery"
         },
         {
             "id": "GAMBLE",
@@ -2152,7 +2256,7 @@
             "name": "Gamble (One-off)",
             "description": "You gain two random perks.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Gamble"
+            "wiki_url": "https://noita.wiki.gg/wiki/Gamble"
         },
         {
             "id": "EXTRA_SHOP_ITEM",
@@ -2160,7 +2264,7 @@
             "name": "Extra Item In Holy Mountain",
             "description": "There will be an additional item in every Holy Mountain you haven't discovered yet.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Extra_Item_in_Holy_Mountain"
+            "wiki_url": "https://noita.wiki.gg/wiki/Extra_Item_in_Holy_Mountain"
         },
         {
             "id": "GENOME_MORE_HATRED",
@@ -2168,7 +2272,7 @@
             "name": "More Hatred",
             "description": "Creatures become more aggressive towards each other.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#More_Hatred"
+            "wiki_url": "https://noita.wiki.gg/wiki/More_Hatred"
         },
         {
             "id": "GENOME_MORE_LOVE",
@@ -2176,7 +2280,7 @@
             "name": "More Love",
             "description": "Creatures become more friendly towards each other.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#More_Love"
+            "wiki_url": "https://noita.wiki.gg/wiki/More_Love"
         },
         {
             "id": "PEACE_WITH_GODS",
@@ -2184,7 +2288,7 @@
             "name": "Peace with Gods",
             "description": "You make peace with your Gods.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Peace_with_Gods"
+            "wiki_url": "https://noita.wiki.gg/wiki/Peace_with_Gods"
         },
         {
             "id": "MANA_FROM_KILLS",
@@ -2192,7 +2296,7 @@
             "name": "Kills to mana",
             "description": "Every time an enemy near you dies, you release mana-recharging liquid.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Kills_to_Mana"
+            "wiki_url": "https://noita.wiki.gg/wiki/Kills_to_Mana"
         },
         {
             "id": "ANGRY_LEVITATION",
@@ -2200,7 +2304,7 @@
             "name": "Rage-fueled Levitation",
             "description": "Killing an enemy makes you replenish some of your levitation power.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Rage_Fueled_Levitation"
+            "wiki_url": "https://noita.wiki.gg/wiki/Rage_Fueled_Levitation"
         },
         {
             "id": "LASER_AIM",
@@ -2208,7 +2312,7 @@
             "name": "Pinpointer",
             "description": "Your spells fly faster and have lower spread, and you have a handy sightline for aiming!",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Pinpointer"
+            "wiki_url": "https://noita.wiki.gg/wiki/Pinpointer"
         },
         {
             "id": "PERSONAL_LASER",
@@ -2216,7 +2320,7 @@
             "name": "Personal Plasma Beam",
             "description": "You constantly fire a devastating plasma beam, but you fire spells much slower",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Personal_Plasma_Beam"
+            "wiki_url": "https://noita.wiki.gg/wiki/Personal_Plasma_Beam"
         },
         {
             "id": "MEGA_BEAM_STONE",
@@ -2224,7 +2328,7 @@
             "name": "Summon S\u00e4dekivi (One-off)",
             "description": "You gain an artefact that allows you to call the celestial rage.",
             "background_path": null,
-            "wiki_url": "https://noita.wiki.gg/wiki/Perks#Summon_S\u00e4dekivi"
+            "wiki_url": "https://noita.wiki.gg/wiki/Summon_S\u00e4dekivi"
         }
     ],
     "spells": [
@@ -2349,6 +2453,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Energy_Orb_With_A_Timer"
         },
         {
+            "id": "HOOK",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/hook.png",
+            "name": "Hookbolt",
+            "description": "A glowing hook that pulls the caster towards itself upon collision",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Hookbolt"
+        },
+        {
             "id": "BLACK_HOLE",
             "image_path": "dynamic_images/ui_gfx/gun_actions/black_hole.png",
             "name": "Black hole",
@@ -2365,6 +2477,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Black_Hole_With_Death_Trigger"
         },
         {
+            "id": "WHITE_HOLE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/white_hole.png",
+            "name": "White hole",
+            "description": "An orb of positive energy that destroys everything in its path",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/White_Hole"
+        },
+        {
             "id": "BLACK_HOLE_BIG",
             "image_path": "dynamic_images/ui_gfx/gun_actions/black_hole_big.png",
             "name": "Giga black hole",
@@ -2373,12 +2493,28 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Giga_Black_Hole"
         },
         {
+            "id": "WHITE_HOLE_BIG",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/white_hole_big.png",
+            "name": "Giga white hole",
+            "description": "A growing orb of positive energy that destroys everything in its reach",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_static_projectile.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Giga_White_Hole"
+        },
+        {
             "id": "BLACK_HOLE_GIGA",
             "image_path": "dynamic_images/ui_gfx/gun_actions/black_hole_giga.png",
             "name": "Omega Black Hole",
             "description": "Even light dies eventually...",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_static_projectile.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Omega_Black_Hole"
+        },
+        {
+            "id": "WHITE_HOLE_GIGA",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/white_hole_giga.png",
+            "name": "Omega white hole",
+            "description": "A massive orb of positive energy that destroys everything in its reach",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_static_projectile.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Omega_White_Hole"
         },
         {
             "id": "TENTACLE_PORTAL",
@@ -2525,6 +2661,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Glowing_Lance"
         },
         {
+            "id": "LANCE_HOLY",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/lance_holy.png",
+            "name": "Holy Lance",
+            "description": "A fast-flying, penetrating lance that glows with power",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Holy_Lance"
+        },
+        {
             "id": "ROCKET",
             "image_path": "dynamic_images/ui_gfx/gun_actions/rocket.png",
             "name": "Magic missile",
@@ -2627,6 +2771,14 @@
             "description": "A crystal that explodes and casts another spell when caught in an explosion",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Dormant_Crystal_With_Trigger"
+        },
+        {
+            "id": "FISH",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/fish.png",
+            "name": "Summon fish",
+            "description": "FISH!",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Summon_Fish"
         },
         {
             "id": "EXPLODING_DEER",
@@ -2781,6 +2933,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Healing_Bolt"
         },
         {
+            "id": "ANTIHEAL",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/antiheal.png",
+            "name": "Deadly heal",
+            "description": "A projectile that at first deals damage, then heals over time",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Deadly_Heal"
+        },
+        {
             "id": "SPIRAL_SHOT",
             "image_path": "dynamic_images/ui_gfx/gun_actions/spiral_shot.png",
             "name": "Spiral shot",
@@ -2871,10 +3031,10 @@
         {
             "id": "FUNKY_SPELL",
             "image_path": "dynamic_images/ui_gfx/gun_actions/machinegun_bullet.png",
-            "name": "",
+            "name": "???",
             "description": "",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
-            "wiki_url": null
+            "wiki_url": "https://noita.wiki.gg/wiki/%3F%3F%3F_(Spell)"
         },
         {
             "id": "PEBBLE",
@@ -3205,6 +3365,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Warp_Cast"
         },
         {
+            "id": "CASTER_CAST",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/caster_cast.png",
+            "name": "Inner spell",
+            "description": "Causes a projectile to be cast from where the caster is standing",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Inner_Spell"
+        },
+        {
             "id": "MIST_RADIOACTIVE",
             "image_path": "dynamic_images/ui_gfx/gun_actions/mist_radioactive.png",
             "name": "Toxic mist",
@@ -3215,7 +3383,7 @@
         {
             "id": "MIST_ALCOHOL",
             "image_path": "dynamic_images/ui_gfx/gun_actions/mist_alcohol.png",
-            "name": "mist of spirits",
+            "name": "Mist of spirits",
             "description": "A cloud of potent alcohol",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_projectile.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Mist_of_Spirits"
@@ -3413,6 +3581,22 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Touch_of_Spirits"
         },
         {
+            "id": "TOUCH_PISS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/touch_piss.png",
+            "name": "Touch of Gold?",
+            "description": "Transmutes everything in a short radius into urine, including walls, creatures... and you",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_material.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Touch_of_Gold?"
+        },
+        {
+            "id": "TOUCH_GRASS",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/touch_grass.png",
+            "name": "Touch of Grass",
+            "description": "Transmutes everything in a short radius into Earth, including walls, creatures... and you. Unless\u2026",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_material.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Touch_of_Grass"
+        },
+        {
             "id": "TOUCH_BLOOD",
             "image_path": "dynamic_images/ui_gfx/gun_actions/touch_blood.png",
             "name": "Touch of Blood",
@@ -3435,6 +3619,14 @@
             "description": "Instantly decimates foes around you, at the cost of your HP",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_static_projectile.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Destruction"
+        },
+        {
+            "id": "MASS_POLYMORPH",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/polymorph.png",
+            "name": "Muodonmuutos",
+            "description": "Baa",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_static_projectile.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Muodonmuutos"
         },
         {
             "id": "BURST_2",
@@ -3547,6 +3739,62 @@
             "description": "Casts 5 spells in a pentagonal pattern",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_draw_many.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Formation___Pentagon"
+        },
+        {
+            "id": "I_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/i_shot.png",
+            "name": "Iplicate Spell",
+            "description": "Casts a copy of a projectile behind you, but the copy still cost mana",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Iplicate_Spell"
+        },
+        {
+            "id": "Y_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/y_shot.png",
+            "name": "Yplicate Spell",
+            "description": "Casts a copy of a projectile in a bifurcated pattern, but the copy still cost mana",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Yplicate_Spell"
+        },
+        {
+            "id": "T_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/t_shot.png",
+            "name": "Tiplicate Spell",
+            "description": "Casts copies of a projectile above and below you, but the copies still cost mana",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Tiplicate_Spell"
+        },
+        {
+            "id": "W_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/w_shot.png",
+            "name": "Wuplicate Spell",
+            "description": "Casts copies of a projectile in a trifurcated pattern, but the copies still cost mana",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Wuplicate_Spell"
+        },
+        {
+            "id": "QUAD_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/quad_shot.png",
+            "name": "Quplicate Spell",
+            "description": "Casts copies of a projectile in a tetragonal pattern, but the copies still cost mana",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Quplicate_Spell"
+        },
+        {
+            "id": "PENTA_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/penta_shot.png",
+            "name": "Peplicate Spell",
+            "description": "Casts 5 copies of a projectile in a pentagonal pattern, but the copies still cost mana",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Peplicate_Spell"
+        },
+        {
+            "id": "HEXA_SHOT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/hexa_shot.png",
+            "name": "Heplicate Spell",
+            "description": "Casts 6 copies of a projectile in a hexagonal pattern, but the copies still cost mana",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Heplicate_Spell"
         },
         {
             "id": "SPREAD_REDUCE",
@@ -3789,6 +4037,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Phasing_Arc"
         },
         {
+            "id": "TRUE_ORBIT",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/true_orbit.png",
+            "name": "True Orbit",
+            "description": "Makes a projectile rotate around the caster like an orbiting planet",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/True_Orbit"
+        },
+        {
             "id": "BOUNCE",
             "image_path": "dynamic_images/ui_gfx/gun_actions/bounce.png",
             "name": "Bounce",
@@ -3811,6 +4067,22 @@
             "description": "Makes a projectile accelerate towards your foes",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Homing"
+        },
+        {
+            "id": "ANTI_HOMING",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/anti_homing.png",
+            "name": "Anti Homing",
+            "description": "Makes a projectile accelerate away from your foes",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Anti_Homing"
+        },
+        {
+            "id": "HOMING_WAND",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/homing_wand.png",
+            "name": "Wand Homing",
+            "description": "Makes a projectile accelerate towards wands",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Wand_Homing"
         },
         {
             "id": "HOMING_SHORT",
@@ -3949,6 +4221,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Essence_To_Power"
         },
         {
+            "id": "ZERO_DAMAGE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/zero_damage.png",
+            "name": "Null shot",
+            "description": "Increases a projectile's duration dramatically but removes all damage & explosion from it",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Null_Shot"
+        },
+        {
             "id": "HEAVY_SHOT",
             "image_path": "dynamic_images/ui_gfx/gun_actions/heavy_shot.png",
             "name": "Heavy Shot",
@@ -4019,6 +4299,14 @@
             "description": "Makes a projectile more destructive to the environment",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Explosive_Projectile"
+        },
+        {
+            "id": "CLUSTERMOD",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/clusterbomb.png",
+            "name": "Clusterbolt",
+            "description": "Makes a projectile release a cluster of explosive bolts upon hitting a wall",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Clusterbolt"
         },
         {
             "id": "WATER_TO_POISON",
@@ -4301,6 +4589,14 @@
             "wiki_url": "https://noita.wiki.gg/wiki/Sea_of_Water"
         },
         {
+            "id": "SEA_SWAMP",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sea_swamp.png",
+            "name": "Summon Swamp",
+            "description": "Summons a large swamp below the caster",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_material.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Summon_Swamp"
+        },
+        {
             "id": "SEA_ACID",
             "image_path": "dynamic_images/ui_gfx/gun_actions/sea_acid.png",
             "name": "Sea of acid",
@@ -4315,6 +4611,14 @@
             "description": "Summons a large body of flammable gas below the caster",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_material.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Sea_of_Flammable_Gas"
+        },
+        {
+            "id": "SEA_MIMIC",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/sea_mimic.png",
+            "name": "Sea of Mimicium",
+            "description": "Summons a large body of mimicium under the caster",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_material.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Sea_of_Mimicium"
         },
         {
             "id": "CLOUD_WATER",
@@ -4523,6 +4827,30 @@
             "description": "A projectile will launch a copy of itself when it bounces",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Larpa_Bounce"
+        },
+        {
+            "id": "BOUNCE_SMALL_EXPLOSION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce_small_explosion.png",
+            "name": "Sparkly bounce",
+            "description": "Makes a projectile release damaging sparks as it bounces",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Sparkly_Bounce"
+        },
+        {
+            "id": "BOUNCE_LIGHTNING",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce_lightning.png",
+            "name": "Lightning bounce",
+            "description": "Makes a projectile release powerful lightning as it bounces",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Lightning_Bounce"
+        },
+        {
+            "id": "BOUNCE_HOLE",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/bounce_hole.png",
+            "name": "Vacuum bounce",
+            "description": "Makes a projectile remove earth as it bounces",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Vacuum_Bounce"
         },
         {
             "id": "FIREBALL_RAY",
@@ -5008,7 +5336,7 @@
             "id": "ALL_NUKES",
             "image_path": "dynamic_images/ui_gfx/gun_actions/all_nukes.png",
             "name": "Spells to nukes",
-            "description": "Transforms every projectile currently in the air into a nuke; not a good idea",
+            "description": "Transforms every projectile currently in the air into a nuke, not a good idea",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_utility.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Spells_To_Nukes"
         },
@@ -5371,6 +5699,14 @@
             "description": "Gives a projectile a trail of rainbow",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_modifier.png",
             "wiki_url": "https://noita.wiki.gg/wiki/Rainbow_Trail"
+        },
+        {
+            "id": "CESSATION",
+            "image_path": "dynamic_images/ui_gfx/gun_actions/cessation.png",
+            "name": "Cessation",
+            "description": "The caster enters the realm of no realm",
+            "background_path": "dynamic_images/ui_gfx/inventory/item_bg_other.png",
+            "wiki_url": "https://noita.wiki.gg/wiki/Cessation"
         }
     ]
 }
