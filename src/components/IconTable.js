@@ -4,7 +4,7 @@ import Icon from "./Icon";
 
 import styles from "./IconTable.module.css";
 
-export default function IconTable({ name, icons, columns }) {
+export default function IconTable({ name, icons, columns, filter = "" }) {
   let totalCount = icons.length;
   if (name === "Enemies") {
     // To replicate the in-game behavior - 100.5% 186/185
@@ -26,7 +26,12 @@ export default function IconTable({ name, icons, columns }) {
         style={{ gridTemplateColumns: `repeat(${columns}, 1fr)` }}
       >
         {icons.map((icon) => (
-          <Icon key={icon.id} prefix={name} icon={icon} />
+          <Icon
+            key={icon.id}
+            prefix={name}
+            icon={icon}
+            disabled={filter && !icon.name.toLowerCase().includes(filter)}
+          />
         ))}
       </div>
     </div>
