@@ -81,13 +81,17 @@ input {
   border: var(--gray) solid 3px;
   color: var(--gray);
   margin: 3px;
-  padding-left: 3px;
+  padding: 3px;
 
   &:hover {
     color: var(--active-yellow);
   }
   &:focus {
     animation: flash 0.2s ease-out;
+  }
+
+  &::placeholder {
+    opacity: 0.75;
   }
 }
 

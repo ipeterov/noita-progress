@@ -36,6 +36,7 @@ export default function App() {
     <div className={styles.container}>
       <div className={styles.filter}>
         <input
+          placeholder="Search"
           id="filter"
           value={filter}
           onInput={(e) => setFilter(e.target.value.toLowerCase())}
