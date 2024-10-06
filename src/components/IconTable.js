@@ -4,7 +4,7 @@ import Icon from "./Icon";
 
 import styles from "./IconTable.module.css";
 
-export default function IconTable({ name, icons, columns, filter = "" }) {
+export default function IconTable({ name, icons, columns }) {
   let totalCount = icons.length;
   if (name === "Enemies") {
     // To replicate the in-game behavior - 100.5% 186/185
@@ -30,7 +30,7 @@ export default function IconTable({ name, icons, columns, filter = "" }) {
             key={icon.id}
             prefix={name}
             icon={icon}
-            disabled={filter && !icon.name.toLowerCase().includes(filter)}
+            disabled={icon.disabled}
           />
         ))}
       </div>

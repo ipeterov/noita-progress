@@ -1,58 +1,104 @@
 .container {
-    --scrollbar-color: rgba(117, 117, 117, 50%);
+  --scrollbar-color: rgba(117, 117, 117, 50%);
 
-    position: relative;
-    height: calc(100vh - 70px);
-    margin: 20px auto;
+  position: relative;
+  height: calc(100vh - 70px);
+  margin: 20px auto;
 
-    border: rgb(145, 129, 103) solid 3px;
-    overflow-y: scroll;
-    max-width: fit-content;
-    background-color: rgb(15, 14, 14);
+  border: rgb(145, 129, 103) solid 3px;
+  overflow-y: scroll;
+  max-width: fit-content;
+  background-color: rgb(15, 14, 14);
 }
 
 .container::-webkit-scrollbar {
-    width: 30px;
-    height: 30px;
+  width: 30px;
+  height: 30px;
 }
 
 .container::-webkit-scrollbar-track {
-    background-color: transparent;
-    border: solid 3px transparent;
-    box-shadow: inset -3px 0 0 0 var(--scrollbar-color),
+  background-color: transparent;
+  border: solid 3px transparent;
+  box-shadow: inset -3px 0 0 0 var(--scrollbar-color),
     inset 3px 0 0 0 var(--scrollbar-color),
     inset 0 3px 0 0 var(--scrollbar-color),
     inset 0 -3px 0 0 var(--scrollbar-color);
 }
 
 .container::-webkit-scrollbar-thumb {
-    background-color: transparent;
-    box-shadow: inset -3px 0 0 0 var(--scrollbar-color),
+  background-color: transparent;
+  box-shadow: inset -3px 0 0 0 var(--scrollbar-color),
     inset 3px 0 0 0 var(--scrollbar-color),
     inset 0 3px 0 0 var(--scrollbar-color),
     inset 0 -3px 0 0 var(--scrollbar-color);
-    border: solid 3px transparent;
-    background-image: url('../img/thumb.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 12px;
+  border: solid 3px transparent;
+  background-image: url("../img/thumb.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 12px;
+}
+
+.container::-webkit-scrollbar-thumb:hover {
+  --scrollbar-color: #9c9c9b;
 }
 
 .container::-webkit-scrollbar-corner {
-    background-color: transparent;
+  background-color: transparent;
 }
 
 .tables {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 12px;
-    margin: 8px 17px 10px 19px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 12px;
+  margin: 8px 17px 10px 19px;
 }
 
 .hamis {
-    position: sticky;
-    left: 0;
-    height: calc(16px * var(--zoom));
-    width: calc(16px * var(--zoom));
+  position: sticky;
+  left: 0;
+  height: calc(16px * var(--zoom));
+  width: calc(16px * var(--zoom));
+}
+
+:root {
+  --gray: #9b9b9a;
+  --active-yellow: #ffffb2;
+  --focus-yellow: #ffff00;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  all: unset;
+
+  position: relative;
+  caret-color: var(--gray);
+  border: var(--gray) solid 3px;
+  color: var(--gray);
+  margin: 3px;
+  padding-left: 3px;
+
+  &:hover {
+    color: var(--active-yellow);
+  }
+  &:focus {
+    animation: flash 0.2s ease-out;
+  }
+}
+
+@keyframes flash {
+  0% {
+    color: var(--active-yellow);
+  }
+  50% {
+    color: var(--focus-yellow);
+  }
+  100% {
+    color: var(--active-yellow);
+  }
 }
