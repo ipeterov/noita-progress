@@ -14,7 +14,7 @@ export default function Icon({ prefix, icon, disabled = false }) {
   }
 
   const handleClick = () => {
-    if (!icon.wiki_url) {
+    if (disabled || !icon.wiki_url) {
       return;
     }
 
