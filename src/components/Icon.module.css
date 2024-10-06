@@ -1,59 +1,71 @@
 .container {
-    margin: calc(-1.5px * var(--zoom));
-    position: relative;
+  margin: calc(-1.5px * var(--zoom));
+  position: relative;
 
-    width: calc(21px * var(--zoom));
-    height: calc(21px * var(--zoom));
+  width: calc(21px * var(--zoom));
+  height: calc(21px * var(--zoom));
 
-    background-image: url('../img/grid_box.png');
-    background-position: center;
-    background-size: cover;
+  background-image: url("../img/grid_box.png");
+  background-position: center;
+  background-size: cover;
 
-    transition: transform .1s;
+  transition: transform 0.1s;
+}
+
+.container[aria-disabled="true"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8); /* Black with 50% opacity */
+  z-index: 1; /* Ensures the tint appears on top */
+  pointer-events: none; /* Allows interaction with content beneath the tint */
 }
 
 .container:hover {
-    transform: scale(120%);
+  transform: scale(120%);
 }
 
 .background {
-    height: calc(20px * var(--zoom));
-    width: calc(20px * var(--zoom));
-    filter: opacity(50%);
+  height: calc(20px * var(--zoom));
+  width: calc(20px * var(--zoom));
+  filter: opacity(50%);
 }
 
 .icon {
-    position: absolute;
-    top: calc(2px * var(--zoom));
-    left: calc(2px * var(--zoom));
+  position: absolute;
+  top: calc(2px * var(--zoom));
+  left: calc(2px * var(--zoom));
 
-    height: calc(16px * var(--zoom));
-    width: calc(16px * var(--zoom));
+  height: calc(16px * var(--zoom));
+  width: calc(16px * var(--zoom));
 }
 
 .tooltip {
-    padding: 18px !important;
-    color: var(--font-color);
-    z-index: 100;
-    border: rgb(125, 106, 79) solid calc(1px * var(--zoom));
-    border-radius: 0;
-    opacity: 0.95 !important;
-    background-color: rgb(0, 0, 0) !important;
+  padding: 18px !important;
+  color: var(--font-color);
+  z-index: 100;
+  border: rgb(125, 106, 79) solid calc(1px * var(--zoom));
+  border-radius: 0;
+  opacity: 0.95 !important;
+  background-color: rgb(0, 0, 0) !important;
 }
 
 .tooltipArrow {
-    display: none;
+  display: none;
 }
 
 .name {
-    font-size: calc(21px);
-    margin-bottom: 16px;
+  font-size: calc(21px);
+  margin-bottom: 16px;
 }
 
 .description {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .wiki {
-    color: var(--font-color-muted);
+  color: var(--font-color-muted);
 }
