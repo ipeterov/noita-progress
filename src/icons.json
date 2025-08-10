@@ -3586,7 +3586,7 @@
             "name": "Touch of Gold?",
             "description": "Transmutes everything in a short radius into urine, including walls, creatures... and you",
             "background_path": "dynamic_images/ui_gfx/inventory/item_bg_material.png",
-            "wiki_url": "https://noita.wiki.gg/wiki/Touch_of_Gold?"
+            "wiki_url": "https://noita.wiki.gg/wiki/Touch_of_Gold%3F"
         },
         {
             "id": "TOUCH_GRASS",
